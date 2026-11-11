@@ -1,0 +1,176 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "contestId": 2179,
+      "contestName": "Codeforces Round 1071 (Div. 3)",
+      "handle": "maansimaan02",
+      "rank": 16654,
+      "ratingUpdateTimeSeconds": 1766510100,
+      "oldRating": 0,
+      "newRating": 397
+    },
+    {
+      "contestId": 2189,
+      "contestName": "Codeforces Round 1075 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 15957,
+      "ratingUpdateTimeSeconds": 1769186100,
+      "oldRating": 397,
+      "newRating": 617
+    },
+    {
+      "contestId": 2188,
+      "contestName": "Codeforces Round 1077 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 17561,
+      "ratingUpdateTimeSeconds": 1769708100,
+      "oldRating": 617,
+      "newRating": 747
+    },
+    {
+      "contestId": 2197,
+      "contestName": "Codeforces Round 1079 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 12518,
+      "ratingUpdateTimeSeconds": 1770831300,
+      "oldRating": 747,
+      "newRating": 851
+    },
+    {
+      "contestId": 2195,
+      "contestName": "Codeforces Round 1080 (Div. 3)",
+      "handle": "maansimaan02",
+      "rank": 7275,
+      "ratingUpdateTimeSeconds": 1771175700,
+      "oldRating": 851,
+      "newRating": 1012
+    },
+    {
+      "contestId": 2192,
+      "contestName": "Codeforces Round 1081 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 12362,
+      "ratingUpdateTimeSeconds": 1771691700,
+      "oldRating": 1012,
+      "newRating": 951
+    },
+    {
+      "contestId": 2205,
+      "contestName": "Codeforces Round 1083 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 6876,
+      "ratingUpdateTimeSeconds": 1772125500,
+      "oldRating": 951,
+      "newRating": 972
+    },
+    {
+      "contestId": 2200,
+      "contestName": "Codeforces Round 1084 (Div. 3)",
+      "handle": "maansimaan02",
+      "rank": 8189,
+      "ratingUpdateTimeSeconds": 1772211000,
+      "oldRating": 972,
+      "newRating": 982
+    },
+    {
+      "contestId": 2207,
+      "contestName": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 7540,
+      "ratingUpdateTimeSeconds": 1772991300,
+      "oldRating": 982,
+      "newRating": 887
+    },
+    {
+      "contestId": 2208,
+      "contestName": "Codeforces Round 1086 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 4495,
+      "ratingUpdateTimeSeconds": 1773506100,
+      "oldRating": 887,
+      "newRating": 1038
+    },
+    {
+      "contestId": 2204,
+      "contestName": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 3103,
+      "ratingUpdateTimeSeconds": 1773679800,
+      "oldRating": 1038,
+      "newRating": 1169
+    },
+    {
+      "contestId": 2209,
+      "contestName": "Codeforces Round 1087 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 2486,
+      "ratingUpdateTimeSeconds": 1774110900,
+      "oldRating": 1169,
+      "newRating": 1284
+    },
+    {
+      "contestId": 2211,
+      "contestName": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 5373,
+      "ratingUpdateTimeSeconds": 1774718100,
+      "oldRating": 1284,
+      "newRating": 1291
+    },
+    {
+      "contestId": 2210,
+      "contestName": "Codeforces Round 1089 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 9917,
+      "ratingUpdateTimeSeconds": 1774803000,
+      "oldRating": 1291,
+      "newRating": 1222
+    },
+    {
+      "contestId": 2217,
+      "contestName": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "handle": "maansimaan02",
+      "rank": 14407,
+      "ratingUpdateTimeSeconds": 1775580600,
+      "oldRating": 1222,
+      "newRating": 1120
+    },
+    {
+      "contestId": 2220,
+      "contestName": "Codeforces Round 1093 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 1819,
+      "ratingUpdateTimeSeconds": 1776098100,
+      "oldRating": 1120,
+      "newRating": 1262
+    },
+    {
+      "contestId": 2225,
+      "contestName": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 8910,
+      "ratingUpdateTimeSeconds": 1776789300,
+      "oldRating": 1262,
+      "newRating": 1189
+    },
+    {
+      "contestId": 2227,
+      "contestName": "Codeforces Round 1096 (Div. 3)",
+      "handle": "maansimaan02",
+      "rank": 7492,
+      "ratingUpdateTimeSeconds": 1777568700,
+      "oldRating": 1189,
+      "newRating": 1142
+    },
+    {
+      "contestId": 2228,
+      "contestName": "Codeforces Round 1098 (Div. 2)",
+      "handle": "maansimaan02",
+      "rank": 9897,
+      "ratingUpdateTimeSeconds": 1778950200,
+      "oldRating": 1142,
+      "newRating": 1101
+    }
+  ]
+}

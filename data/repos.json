@@ -1,0 +1,994 @@
+[
+  {
+    "name": "diffCraft",
+    "description": "A collaborative code review and debugging platform with real-time discussions, threaded feedback, and intelligent code analysis",
+    "url": "https://github.com/man-singh-dev/diffCraft",
+    "homepageUrl": "https://diffcraft-three.vercel.app",
+    "isFork": false,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "updatedAt": "2026-11-10T21:31:00Z",
+    "createdAt": "2026-10-22T16:35:55Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 848267,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 470,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 89,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "web-app",
+    "description": "Mifos X Web App is the Web-UI component of Mifos X. It currently uses Apache Fineract as the backend and leverages the popular Angular framework.  Main Branch is the latest Stable Release, Dev should be used for all development ahead of release.",
+    "url": "https://github.com/man-singh-dev/web-app",
+    "homepageUrl": "https://sandbox.mifos.community",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-11-01T03:47:31Z",
+    "createdAt": "2026-11-01T03:47:31Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 10414221,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 4354210,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 1102653,
+          "node": {
+            "name": "SCSS",
+            "color": "#c6538c"
+          }
+        },
+        {
+          "size": 103428,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 2756,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 1583,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "man-singh-dev",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/man-singh-dev",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-10-30T14:19:04Z",
+    "createdAt": "2026-02-06T15:47:44Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "kaneo",
+    "description": "⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.",
+    "url": "https://github.com/man-singh-dev/kaneo",
+    "homepageUrl": "https://kaneo.app/",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-10-28T17:42:10Z",
+    "createdAt": "2026-10-28T17:42:10Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 12887930,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 559898,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 351261,
+          "node": {
+            "name": "MDX",
+            "color": "#fcb32c"
+          }
+        },
+        {
+          "size": 67567,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 45337,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 39486,
+          "node": {
+            "name": "PLpgSQL",
+            "color": "#336790"
+          }
+        },
+        {
+          "size": 12987,
+          "node": {
+            "name": "PowerShell",
+            "color": "#012456"
+          }
+        },
+        {
+          "size": 7859,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "muster",
+    "description": "Incident response playbooks",
+    "url": "https://github.com/man-singh-dev/muster",
+    "homepageUrl": null,
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-10-25T12:05:02Z",
+    "createdAt": "2026-10-25T12:05:02Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 299687,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 96053,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 70043,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 50322,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 10008,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 738,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "GSTLens",
+    "description": "AI-assisted GST invoice reconciliation for Indian small businesses and the CAs who serve them",
+    "url": "https://github.com/man-singh-dev/GSTLens",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "updatedAt": "2026-10-23T18:01:41Z",
+    "createdAt": "2026-10-13T15:31:59Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "SentinelOps",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/SentinelOps",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "updatedAt": "2026-10-23T18:01:39Z",
+    "createdAt": "2026-09-10T17:40:26Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 56216,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 9502,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 3406,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 2730,
+          "node": {
+            "name": "PowerShell",
+            "color": "#012456"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "prepverse-ai",
+    "description": "Full-stack AI interview preparation platform featuring secure authentication, AI-driven interview analysis, personalized reports, and automated resume generation",
+    "url": "https://github.com/man-singh-dev/prepverse-ai",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-09-19T14:42:30Z",
+    "createdAt": "2026-09-16T15:28:50Z",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 22405,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1406,
+          "node": {
+            "name": "SCSS",
+            "color": "#c6538c"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "devlink",
+    "description": "DevLink is an open-source platform where developers connect, collaborate, and build projects together. Discover opportunities, showcase your work, contribute to open source, and grow your network—all in one place.",
+    "url": "https://github.com/man-singh-dev/devlink",
+    "homepageUrl": "",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-07-24T03:32:30Z",
+    "createdAt": "2026-07-24T03:32:30Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 608150,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 586883,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 5058,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1250,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 704,
+          "node": {
+            "name": "Mako",
+            "color": "#7e858d"
+          }
+        },
+        {
+          "size": 386,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "crukx",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/crukx",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-07-17T14:21:33Z",
+    "createdAt": "2026-07-11T07:16:00Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 542550,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 25122,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 12916,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 4050,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "OrchestrAI",
+    "description": "Enterprise AI Workflow Orchestration Platform for Building, Executing, and Monitoring Multi-Agent Systems",
+    "url": "https://github.com/man-singh-dev/OrchestrAI",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-06-24T06:39:54Z",
+    "createdAt": "2026-06-24T06:37:39Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "HopperScope",
+    "description": "Distributed backend observability and failure investigation platform for tracing request lifecycles, async job failures, retries, and service-level bottlenecks in real time.",
+    "url": "https://github.com/man-singh-dev/HopperScope",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-06-09T17:56:35Z",
+    "createdAt": "2026-05-27T16:25:24Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 64302,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 31608,
+          "node": {
+            "name": "Java",
+            "color": "#b07219"
+          }
+        },
+        {
+          "size": 1317,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 853,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 762,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        },
+        {
+          "size": 591,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "tanden-trust-audit-poc",
+    "description": "PoC for tamper-evident audit trails using AWS, AI, and Web3-compatible verification.",
+    "url": "https://github.com/man-singh-dev/tanden-trust-audit-poc",
+    "homepageUrl": null,
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-06-07T03:04:55Z",
+    "createdAt": "2026-06-07T03:04:55Z",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 2691,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "js-learning",
+    "description": "A code repo for javascript series",
+    "url": "https://github.com/man-singh-dev/js-learning",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-06-06T04:18:12Z",
+    "createdAt": "2026-06-06T04:18:08Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "pax8-cta",
+    "description": "Ship your copilot agents to all your tenants! Multi-tenant Copilot Studio deployment automation for MSPs",
+    "url": "https://github.com/man-singh-dev/pax8-cta",
+    "homepageUrl": "https://www.npmjs.com/package/pax8-cta",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-06-05T18:41:09Z",
+    "createdAt": "2026-06-05T18:41:09Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 1888682,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 20044,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 10849,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 5871,
+          "node": {
+            "name": "PowerShell",
+            "color": "#012456"
+          }
+        },
+        {
+          "size": 1721,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        },
+        {
+          "size": 810,
+          "node": {
+            "name": "Ruby",
+            "color": "#701516"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "url": "https://github.com/man-singh-dev/mattermost",
+    "homepageUrl": "https://mattermost.com",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-05-23T19:45:05Z",
+    "createdAt": "2026-05-23T19:45:05Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 29046115,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 23971577,
+          "node": {
+            "name": "Go",
+            "color": "#00ADD8"
+          }
+        },
+        {
+          "size": 3307782,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1509743,
+          "node": {
+            "name": "SCSS",
+            "color": "#c6538c"
+          }
+        },
+        {
+          "size": 1263284,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        },
+        {
+          "size": 86688,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 67196,
+          "node": {
+            "name": "Makefile",
+            "color": "#427819"
+          }
+        },
+        {
+          "size": 23060,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "goalflow-app",
+    "description": "GoalFlow is a role-based Performance Management System built using React, TypeScript, Firebase Authentication, Firestore, and Firebase Hosting for real-time employee goal tracking and performance management.",
+    "url": "https://github.com/man-singh-dev/goalflow-app",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-05-18T17:59:22Z",
+    "createdAt": "2026-05-18T16:26:05Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 146572,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 1900,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 296,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "TradeX-Pro",
+    "description": "A trading-focused web application for analyzing market data and visualizing trends. Built to explore real-time data handling and interactive UI design.",
+    "url": "https://github.com/man-singh-dev/TradeX-Pro",
+    "homepageUrl": "",
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-04-24T08:25:29Z",
+    "createdAt": "2026-04-17T12:12:58Z",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 68047,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 17107,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2033,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "dpi-man-singh",
+    "description": "A C++ networking project that analyzes PCAP files and inspects network packets to identify protocols and traffic patterns. It parses Ethernet, IP, and TCP headers and performs deep packet inspection to extract useful information from captured traffic. Built using C++ and libpcap to demonstrate packet analysis and networking concepts.",
+    "url": "https://github.com/man-singh-dev/dpi-man-singh",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-04-24T08:15:28Z",
+    "createdAt": "2026-03-10T15:33:17Z",
+    "primaryLanguage": {
+      "name": "C++",
+      "color": "#f34b7d"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 176647,
+          "node": {
+            "name": "C++",
+            "color": "#f34b7d"
+          }
+        },
+        {
+          "size": 9445,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        },
+        {
+          "size": 542,
+          "node": {
+            "name": "CMake",
+            "color": "#DA3434"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "url": "https://github.com/man-singh-dev/freeCodeCamp",
+    "homepageUrl": "https://contribute.freecodecamp.org",
+    "isFork": true,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-02-07T05:23:42Z",
+    "createdAt": "2026-02-07T05:23:42Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 3264324,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 762760,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 220111,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 2974,
+          "node": {
+            "name": "Dockerfile",
+            "color": "#384d54"
+          }
+        },
+        {
+          "size": 824,
+          "node": {
+            "name": "Shell",
+            "color": "#89e051"
+          }
+        },
+        {
+          "size": 806,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "Task-Manager",
+    "description": "Full-Stack task manager using Node.js, Express, MongoDB",
+    "url": "https://github.com/man-singh-dev/Task-Manager",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2025-12-20T04:38:25Z",
+    "createdAt": "2025-12-20T04:30:00Z",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 2236,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 1993,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 1172,
+          "node": {
+            "name": "HTML",
+            "color": "#e34c26"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  }
+]

@@ -1,0 +1,52 @@
+name: Refresh stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # GH_STATS_TOKEN (optional repo secret, a fine-grained PAT with public read access)
+      # gives the most complete contribution data; the built-in token works as a fallback.
+      - name: Pull GitHub / LeetCode / Codeforces stats
+        run: npm run refresh-data -- --skip-readmes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN || github.token }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # compare with the committed version, ignoring the generatedAt timestamp
+          CHANGED=$(node -e "
+            const fs = require('fs'), { execSync } = require('child_process');
+            const strip = (s) => { const o = JSON.parse(s); delete o.generatedAt; return JSON.stringify(o); };
+            const prev = execSync('git show HEAD:src/data/site.json').toString();
+            process.stdout.write(strip(prev) === strip(fs.readFileSync('src/data/site.json', 'utf8')) ? 'no' : 'yes');
+          ")
+          if [ "$CHANGED" != "yes" ]; then
+            echo "No stat changes."
+            exit 0
+          fi
+          git add src/data/site.json data/
+          git commit -m "chore(data): refresh stats"
+          git push

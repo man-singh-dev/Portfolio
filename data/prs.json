@@ -1,0 +1,289 @@
+[
+  {
+    "title": "fix(web): clear query cache before navigating on sign-out",
+    "url": "https://github.com/usekaneo/kaneo/pull/2165",
+    "number": 2165,
+    "state": "MERGED",
+    "createdAt": "2026-11-01T05:57:43Z",
+    "closedAt": "2026-11-10T11:30:36Z",
+    "mergedAt": "2026-11-10T11:30:36Z",
+    "additions": 87,
+    "deletions": 8,
+    "changedFiles": 3,
+    "isDraft": false,
+    "labels": {
+      "nodes": [
+        {
+          "name": "size/s"
+        },
+        {
+          "name": "mellon: reviewed-human"
+        }
+      ]
+    },
+    "repository": {
+      "nameWithOwner": "usekaneo/kaneo",
+      "isPrivate": false,
+      "stargazerCount": 9782,
+      "url": "https://github.com/usekaneo/kaneo",
+      "owner": {
+        "login": "usekaneo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192649426?v=4"
+      }
+    }
+  },
+  {
+    "title": "fix(web): avoid crypto.randomUUID on plain-HTTP origins",
+    "url": "https://github.com/usekaneo/kaneo/pull/2157",
+    "number": 2157,
+    "state": "MERGED",
+    "createdAt": "2026-10-29T10:58:56Z",
+    "closedAt": "2026-10-30T01:58:48Z",
+    "mergedAt": "2026-10-30T01:58:48Z",
+    "additions": 59,
+    "deletions": 2,
+    "changedFiles": 4,
+    "isDraft": false,
+    "labels": {
+      "nodes": [
+        {
+          "name": "size/s"
+        },
+        {
+          "name": "mellon: checked"
+        }
+      ]
+    },
+    "repository": {
+      "nameWithOwner": "usekaneo/kaneo",
+      "isPrivate": false,
+      "stargazerCount": 9782,
+      "url": "https://github.com/usekaneo/kaneo",
+      "owner": {
+        "login": "usekaneo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192649426?v=4"
+      }
+    }
+  },
+  {
+    "title": "test: cover password change rules",
+    "url": "https://github.com/SolidGeeks/muster/pull/13",
+    "number": 13,
+    "state": "MERGED",
+    "createdAt": "2026-10-25T20:00:16Z",
+    "closedAt": "2026-10-25T20:25:36Z",
+    "mergedAt": "2026-10-25T20:25:36Z",
+    "additions": 16,
+    "deletions": 0,
+    "changedFiles": 1,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "SolidGeeks/muster",
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/SolidGeeks/muster",
+      "owner": {
+        "login": "SolidGeeks",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/347405328?v=4"
+      }
+    }
+  },
+  {
+    "title": "test: cover playbook restore",
+    "url": "https://github.com/SolidGeeks/muster/pull/12",
+    "number": 12,
+    "state": "MERGED",
+    "createdAt": "2026-10-25T19:41:38Z",
+    "closedAt": "2026-10-25T20:29:36Z",
+    "mergedAt": "2026-10-25T20:29:36Z",
+    "additions": 21,
+    "deletions": 0,
+    "changedFiles": 1,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "SolidGeeks/muster",
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/SolidGeeks/muster",
+      "owner": {
+        "login": "SolidGeeks",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/347405328?v=4"
+      }
+    }
+  },
+  {
+    "title": "Stage 0 foundation",
+    "url": "https://github.com/man-singh-dev/diffCraft/pull/1",
+    "number": 1,
+    "state": "MERGED",
+    "createdAt": "2026-10-23T18:34:32Z",
+    "closedAt": "2026-10-23T18:35:59Z",
+    "mergedAt": "2026-10-23T18:35:59Z",
+    "additions": 4101,
+    "deletions": 233,
+    "changedFiles": 41,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "man-singh-dev/diffCraft",
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "url": "https://github.com/man-singh-dev/diffCraft",
+      "owner": {
+        "login": "man-singh-dev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4"
+      }
+    }
+  },
+  {
+    "title": "Remove hardcoded CI password",
+    "url": "https://github.com/man-singh-dev/SentinelOps/pull/1",
+    "number": 1,
+    "state": "MERGED",
+    "createdAt": "2026-10-12T13:34:41Z",
+    "closedAt": "2026-10-12T13:56:34Z",
+    "mergedAt": "2026-10-12T13:56:34Z",
+    "additions": 6312,
+    "deletions": 868,
+    "changedFiles": 41,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "man-singh-dev/SentinelOps",
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "url": "https://github.com/man-singh-dev/SentinelOps",
+      "owner": {
+        "login": "man-singh-dev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4"
+      }
+    }
+  },
+  {
+    "title": "Man singh work",
+    "url": "https://github.com/man-singh-dev/crukx/pull/1",
+    "number": 1,
+    "state": "OPEN",
+    "createdAt": "2026-09-04T10:13:52Z",
+    "closedAt": null,
+    "mergedAt": null,
+    "additions": 33680,
+    "deletions": 2516,
+    "changedFiles": 116,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "man-singh-dev/crukx",
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/man-singh-dev/crukx",
+      "owner": {
+        "login": "man-singh-dev",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4"
+      }
+    }
+  },
+  {
+    "title": "Implement infinite scrolling using Intersection Observer API",
+    "url": "https://github.com/nensii21/devlink/pull/505",
+    "number": 505,
+    "state": "MERGED",
+    "createdAt": "2026-07-24T03:59:03Z",
+    "closedAt": "2026-07-25T04:39:54Z",
+    "mergedAt": "2026-07-25T04:39:54Z",
+    "additions": 88,
+    "deletions": 41,
+    "changedFiles": 4,
+    "isDraft": false,
+    "labels": {
+      "nodes": [
+        {
+          "name": "ECSoC26"
+        },
+        {
+          "name": "area:backend"
+        },
+        {
+          "name": "good-backend"
+        },
+        {
+          "name": "ECSoC26-L2"
+        }
+      ]
+    },
+    "repository": {
+      "nameWithOwner": "nensii21/devlink",
+      "isPrivate": false,
+      "stargazerCount": 25,
+      "url": "https://github.com/nensii21/devlink",
+      "owner": {
+        "login": "nensii21",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/246799975?u=8ba7620212ff6e2fc684f4263d21a056dda60c2e&v=4"
+      }
+    }
+  },
+  {
+    "title": "add automated tests with node:test and update CI",
+    "url": "https://github.com/kognavi/tanden-trust-audit-poc/pull/6",
+    "number": 6,
+    "state": "MERGED",
+    "createdAt": "2026-06-07T03:40:27Z",
+    "closedAt": "2026-06-07T05:12:51Z",
+    "mergedAt": "2026-06-07T05:12:51Z",
+    "additions": 101,
+    "deletions": 48,
+    "changedFiles": 6,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "kognavi/tanden-trust-audit-poc",
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/kognavi/tanden-trust-audit-poc",
+      "owner": {
+        "login": "kognavi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113531770?u=a3b37efd6050e8a4cc3de26ed774fc281832e72f&v=4"
+      }
+    }
+  },
+  {
+    "title": "docs: update quick-start command to single invocation form (fixes #439)",
+    "url": "https://github.com/pax8labs/pax8-cta/pull/440",
+    "number": 440,
+    "state": "MERGED",
+    "createdAt": "2026-06-05T19:12:28Z",
+    "closedAt": "2026-07-02T15:46:25Z",
+    "mergedAt": "2026-07-02T15:46:25Z",
+    "additions": 2,
+    "deletions": 2,
+    "changedFiles": 2,
+    "isDraft": false,
+    "labels": {
+      "nodes": []
+    },
+    "repository": {
+      "nameWithOwner": "pax8labs/pax8-cta",
+      "isPrivate": false,
+      "stargazerCount": 5,
+      "url": "https://github.com/pax8labs/pax8-cta",
+      "owner": {
+        "login": "pax8labs",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/202998236?v=4"
+      }
+    }
+  }
+]

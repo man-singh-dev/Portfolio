@@ -1,0 +1,239 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mansingh876",
+      "profile": {
+        "ranking": 173133
+      },
+      "submitStatsGlobal": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 561
+          },
+          {
+            "difficulty": "Easy",
+            "count": 115
+          },
+          {
+            "difficulty": "Medium",
+            "count": 358
+          },
+          {
+            "difficulty": "Hard",
+            "count": 88
+          }
+        ]
+      },
+      "badges": [
+        {
+          "name": "Knight",
+          "displayName": "Knight",
+          "icon": "/static/images/badges/knight.png",
+          "creationDate": "2026-05-06"
+        },
+        {
+          "name": "Annual Badge",
+          "displayName": "200 Days Badge 2026",
+          "icon": "https://assets.leetcode.com/static_assets/others/200_1080_1080.png",
+          "creationDate": "2026-08-23"
+        },
+        {
+          "name": "Annual Badge",
+          "displayName": "100 Days Badge 2026",
+          "icon": "https://assets.leetcode.com/static_assets/others/100_1080_1080.png",
+          "creationDate": "2026-04-26"
+        },
+        {
+          "name": "Annual Badge",
+          "displayName": "50 Days Badge 2026",
+          "icon": "https://assets.leetcode.com/static_assets/others/50_1080_1080.png",
+          "creationDate": "2026-03-07"
+        }
+      ]
+    },
+    "allQuestionsCount": [
+      {
+        "difficulty": "All",
+        "count": 4110
+      },
+      {
+        "difficulty": "Easy",
+        "count": 975
+      },
+      {
+        "difficulty": "Medium",
+        "count": 2146
+      },
+      {
+        "difficulty": "Hard",
+        "count": 989
+      }
+    ],
+    "userContestRanking": {
+      "attendedContestsCount": 18,
+      "rating": 1902.175,
+      "globalRanking": 40318,
+      "topPercentage": 4.65,
+      "totalParticipants": 891547,
+      "badge": {
+        "name": "Knight"
+      }
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "rating": 1594.885,
+        "ranking": 8228,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1687.843,
+        "ranking": 1832,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1678.986,
+        "ranking": 12536,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1682.431,
+        "ranking": 9617,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1669.182,
+        "ranking": 14140,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1698.034,
+        "ranking": 4468,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1708.173,
+        "ranking": 7641,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1708.731,
+        "ranking": 9683,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1766.434,
+        "ranking": 1775,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1806.416,
+        "ranking": 2009,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1843.489,
+        "ranking": 2066,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1820.217,
+        "ranking": 11274,
+        "contest": {
+          "title": "Biweekly Contest 180",
+          "startTime": 1775917800
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1868.14,
+        "ranking": 1382,
+        "contest": {
+          "title": "Weekly Contest 497",
+          "startTime": 1775961000
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1858.243,
+        "ranking": 6627,
+        "contest": {
+          "title": "Weekly Contest 498",
+          "startTime": 1776565800
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1884.168,
+        "ranking": 1978,
+        "contest": {
+          "title": "Weekly Contest 501",
+          "startTime": 1778380200
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1933.86,
+        "ranking": 830,
+        "contest": {
+          "title": "Weekly Contest 504",
+          "startTime": 1780194600
+        }
+      },
+      {
+        "attended": true,
+        "rating": 1902.175,
+        "ranking": 9725,
+        "contest": {
+          "title": "Weekly Contest 505",
+          "startTime": 1780799400
+        }
+      }
+    ]
+  }
+}

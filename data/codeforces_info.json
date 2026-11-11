@@ -1,0 +1,20 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "lastOnlineTimeSeconds": 1792688663,
+      "rating": 1101,
+      "friendOfCount": 2,
+      "titlePhoto": "https://userpic.codeforces.org/5473167/title/6f65db2ec512424e.jpg",
+      "handle": "maansimaan02",
+      "avatar": "https://userpic.codeforces.org/5473167/avatar/19c0fdc8d2e65c95.jpg",
+      "firstName": "NcRluPCo",
+      "contribution": 0,
+      "organization": "IIIT Agartala",
+      "rank": "newbie",
+      "maxRating": 1291,
+      "registrationTimeSeconds": 1766500952,
+      "maxRank": "pupil"
+    }
+  ]
+}

@@ -1,0 +1,2716 @@
+{
+  "github": {
+    "login": "man-singh-dev",
+    "repos": [
+      {
+        "name": "diffCraft",
+        "description": "A collaborative code review and debugging platform with real-time discussions, threaded feedback, and intelligent code analysis",
+        "url": "https://github.com/man-singh-dev/diffCraft",
+        "homepage": "https://diffcraft-three.vercel.app",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 848267
+          },
+          {
+            "name": "JavaScript",
+            "size": 470
+          },
+          {
+            "name": "CSS",
+            "size": 89
+          }
+        ],
+        "stars": 1,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-11-10T21:31:00Z",
+        "createdAt": "2026-10-22T16:35:55Z"
+      },
+      {
+        "name": "GSTLens",
+        "description": "AI-assisted GST invoice reconciliation for Indian small businesses and the CAs who serve them",
+        "url": "https://github.com/man-singh-dev/GSTLens",
+        "homepage": "",
+        "language": null,
+        "languageColor": null,
+        "languages": [],
+        "stars": 1,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-10-23T18:01:41Z",
+        "createdAt": "2026-10-13T15:31:59Z"
+      },
+      {
+        "name": "SentinelOps",
+        "description": "",
+        "url": "https://github.com/man-singh-dev/SentinelOps",
+        "homepage": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 56216
+          },
+          {
+            "name": "Go",
+            "size": 9502
+          },
+          {
+            "name": "JavaScript",
+            "size": 3406
+          },
+          {
+            "name": "PowerShell",
+            "size": 2730
+          }
+        ],
+        "stars": 1,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-10-23T18:01:39Z",
+        "createdAt": "2026-09-10T17:40:26Z"
+      },
+      {
+        "name": "prepverse-ai",
+        "description": "Full-stack AI interview preparation platform featuring secure authentication, AI-driven interview analysis, personalized reports, and automated resume generation",
+        "url": "https://github.com/man-singh-dev/prepverse-ai",
+        "homepage": "",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "languages": [
+          {
+            "name": "JavaScript",
+            "size": 22405
+          },
+          {
+            "name": "SCSS",
+            "size": 1406
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-09-19T14:42:30Z",
+        "createdAt": "2026-09-16T15:28:50Z"
+      },
+      {
+        "name": "crukx",
+        "description": "",
+        "url": "https://github.com/man-singh-dev/crukx",
+        "homepage": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 542550
+          },
+          {
+            "name": "JavaScript",
+            "size": 25122
+          },
+          {
+            "name": "CSS",
+            "size": 12916
+          },
+          {
+            "name": "HTML",
+            "size": 4050
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-07-17T14:21:33Z",
+        "createdAt": "2026-07-11T07:16:00Z"
+      },
+      {
+        "name": "OrchestrAI",
+        "description": "Enterprise AI Workflow Orchestration Platform for Building, Executing, and Monitoring Multi-Agent Systems",
+        "url": "https://github.com/man-singh-dev/OrchestrAI",
+        "homepage": "",
+        "language": null,
+        "languageColor": null,
+        "languages": [],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-06-24T06:39:54Z",
+        "createdAt": "2026-06-24T06:37:39Z"
+      },
+      {
+        "name": "HopperScope",
+        "description": "Distributed backend observability and failure investigation platform for tracing request lifecycles, async job failures, retries, and service-level bottlenecks in real time.",
+        "url": "https://github.com/man-singh-dev/HopperScope",
+        "homepage": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 64302
+          },
+          {
+            "name": "Java",
+            "size": 31608
+          },
+          {
+            "name": "CSS",
+            "size": 1317
+          },
+          {
+            "name": "HTML",
+            "size": 853
+          },
+          {
+            "name": "Dockerfile",
+            "size": 762
+          },
+          {
+            "name": "JavaScript",
+            "size": 591
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-06-09T17:56:35Z",
+        "createdAt": "2026-05-27T16:25:24Z"
+      },
+      {
+        "name": "js-learning",
+        "description": "A code repo for javascript series",
+        "url": "https://github.com/man-singh-dev/js-learning",
+        "homepage": "",
+        "language": null,
+        "languageColor": null,
+        "languages": [],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-06-06T04:18:12Z",
+        "createdAt": "2026-06-06T04:18:08Z"
+      },
+      {
+        "name": "goalflow-app",
+        "description": "GoalFlow is a role-based Performance Management System built using React, TypeScript, Firebase Authentication, Firestore, and Firebase Hosting for real-time employee goal tracking and performance management.",
+        "url": "https://github.com/man-singh-dev/goalflow-app",
+        "homepage": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 146572
+          },
+          {
+            "name": "CSS",
+            "size": 1900
+          },
+          {
+            "name": "HTML",
+            "size": 296
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-05-18T17:59:22Z",
+        "createdAt": "2026-05-18T16:26:05Z"
+      },
+      {
+        "name": "TradeX-Pro",
+        "description": "A trading-focused web application for analyzing market data and visualizing trends. Built to explore real-time data handling and interactive UI design.",
+        "url": "https://github.com/man-singh-dev/TradeX-Pro",
+        "homepage": "",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "languages": [
+          {
+            "name": "JavaScript",
+            "size": 68047
+          },
+          {
+            "name": "CSS",
+            "size": 17107
+          },
+          {
+            "name": "HTML",
+            "size": 2033
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-04-24T08:25:29Z",
+        "createdAt": "2026-04-17T12:12:58Z"
+      },
+      {
+        "name": "dpi-man-singh",
+        "description": "A C++ networking project that analyzes PCAP files and inspects network packets to identify protocols and traffic patterns. It parses Ethernet, IP, and TCP headers and performs deep packet inspection to extract useful information from captured traffic. Built using C++ and libpcap to demonstrate packet analysis and networking concepts.",
+        "url": "https://github.com/man-singh-dev/dpi-man-singh",
+        "homepage": "",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "languages": [
+          {
+            "name": "C++",
+            "size": 176647
+          },
+          {
+            "name": "Python",
+            "size": 9445
+          },
+          {
+            "name": "CMake",
+            "size": 542
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-04-24T08:15:28Z",
+        "createdAt": "2026-03-10T15:33:17Z"
+      },
+      {
+        "name": "Task-Manager",
+        "description": "Full-Stack task manager using Node.js, Express, MongoDB",
+        "url": "https://github.com/man-singh-dev/Task-Manager",
+        "homepage": "",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "languages": [
+          {
+            "name": "JavaScript",
+            "size": 2236
+          },
+          {
+            "name": "CSS",
+            "size": 1993
+          },
+          {
+            "name": "HTML",
+            "size": 1172
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2025-12-20T04:38:25Z",
+        "createdAt": "2025-12-20T04:30:00Z"
+      }
+    ],
+    "prs": [
+      {
+        "title": "docs: update quick-start command to single invocation form (fixes #439)",
+        "url": "https://github.com/pax8labs/pax8-cta/pull/440",
+        "number": 440,
+        "repo": "pax8labs/pax8-cta",
+        "repoUrl": "https://github.com/pax8labs/pax8-cta",
+        "repoStars": 5,
+        "owner": "pax8labs",
+        "avatar": "https://avatars.githubusercontent.com/u/202998236?v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-06-05T19:12:28Z",
+        "mergedAt": "2026-07-02T15:46:25Z",
+        "closedAt": "2026-07-02T15:46:25Z",
+        "additions": 2,
+        "deletions": 2,
+        "labels": []
+      },
+      {
+        "title": "add automated tests with node:test and update CI",
+        "url": "https://github.com/kognavi/tanden-trust-audit-poc/pull/6",
+        "number": 6,
+        "repo": "kognavi/tanden-trust-audit-poc",
+        "repoUrl": "https://github.com/kognavi/tanden-trust-audit-poc",
+        "repoStars": 0,
+        "owner": "kognavi",
+        "avatar": "https://avatars.githubusercontent.com/u/113531770?u=a3b37efd6050e8a4cc3de26ed774fc281832e72f&v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-06-07T03:40:27Z",
+        "mergedAt": "2026-06-07T05:12:51Z",
+        "closedAt": "2026-06-07T05:12:51Z",
+        "additions": 101,
+        "deletions": 48,
+        "labels": []
+      },
+      {
+        "title": "Implement infinite scrolling using Intersection Observer API",
+        "url": "https://github.com/nensii21/devlink/pull/505",
+        "number": 505,
+        "repo": "nensii21/devlink",
+        "repoUrl": "https://github.com/nensii21/devlink",
+        "repoStars": 25,
+        "owner": "nensii21",
+        "avatar": "https://avatars.githubusercontent.com/u/246799975?u=8ba7620212ff6e2fc684f4263d21a056dda60c2e&v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-07-24T03:59:03Z",
+        "mergedAt": "2026-07-25T04:39:54Z",
+        "closedAt": "2026-07-25T04:39:54Z",
+        "additions": 88,
+        "deletions": 41,
+        "labels": [
+          "ECSoC26",
+          "area:backend",
+          "good-backend",
+          "ECSoC26-L2"
+        ]
+      },
+      {
+        "title": "Man singh work",
+        "url": "https://github.com/man-singh-dev/crukx/pull/1",
+        "number": 1,
+        "repo": "man-singh-dev/crukx",
+        "repoUrl": "https://github.com/man-singh-dev/crukx",
+        "repoStars": 0,
+        "owner": "man-singh-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4",
+        "own": true,
+        "status": "open",
+        "draft": false,
+        "createdAt": "2026-09-04T10:13:52Z",
+        "mergedAt": null,
+        "closedAt": null,
+        "additions": 33680,
+        "deletions": 2516,
+        "labels": []
+      },
+      {
+        "title": "Remove hardcoded CI password",
+        "url": "https://github.com/man-singh-dev/SentinelOps/pull/1",
+        "number": 1,
+        "repo": "man-singh-dev/SentinelOps",
+        "repoUrl": "https://github.com/man-singh-dev/SentinelOps",
+        "repoStars": 1,
+        "owner": "man-singh-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4",
+        "own": true,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-10-12T13:34:41Z",
+        "mergedAt": "2026-10-12T13:56:34Z",
+        "closedAt": "2026-10-12T13:56:34Z",
+        "additions": 6312,
+        "deletions": 868,
+        "labels": []
+      },
+      {
+        "title": "Stage 0 foundation",
+        "url": "https://github.com/man-singh-dev/diffCraft/pull/1",
+        "number": 1,
+        "repo": "man-singh-dev/diffCraft",
+        "repoUrl": "https://github.com/man-singh-dev/diffCraft",
+        "repoStars": 1,
+        "owner": "man-singh-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/217445765?u=86661d5bd3e17a20e25fc817df20702d30eb7796&v=4",
+        "own": true,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-10-23T18:34:32Z",
+        "mergedAt": "2026-10-23T18:35:59Z",
+        "closedAt": "2026-10-23T18:35:59Z",
+        "additions": 4101,
+        "deletions": 233,
+        "labels": []
+      },
+      {
+        "title": "test: cover playbook restore",
+        "url": "https://github.com/SolidGeeks/muster/pull/12",
+        "number": 12,
+        "repo": "SolidGeeks/muster",
+        "repoUrl": "https://github.com/SolidGeeks/muster",
+        "repoStars": 0,
+        "owner": "SolidGeeks",
+        "avatar": "https://avatars.githubusercontent.com/u/347405328?v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-10-25T19:41:38Z",
+        "mergedAt": "2026-10-25T20:29:36Z",
+        "closedAt": "2026-10-25T20:29:36Z",
+        "additions": 21,
+        "deletions": 0,
+        "labels": []
+      },
+      {
+        "title": "test: cover password change rules",
+        "url": "https://github.com/SolidGeeks/muster/pull/13",
+        "number": 13,
+        "repo": "SolidGeeks/muster",
+        "repoUrl": "https://github.com/SolidGeeks/muster",
+        "repoStars": 0,
+        "owner": "SolidGeeks",
+        "avatar": "https://avatars.githubusercontent.com/u/347405328?v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-10-25T20:00:16Z",
+        "mergedAt": "2026-10-25T20:25:36Z",
+        "closedAt": "2026-10-25T20:25:36Z",
+        "additions": 16,
+        "deletions": 0,
+        "labels": []
+      },
+      {
+        "title": "fix(web): avoid crypto.randomUUID on plain-HTTP origins",
+        "url": "https://github.com/usekaneo/kaneo/pull/2157",
+        "number": 2157,
+        "repo": "usekaneo/kaneo",
+        "repoUrl": "https://github.com/usekaneo/kaneo",
+        "repoStars": 9782,
+        "owner": "usekaneo",
+        "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-10-29T10:58:56Z",
+        "mergedAt": "2026-10-30T01:58:48Z",
+        "closedAt": "2026-10-30T01:58:48Z",
+        "additions": 59,
+        "deletions": 2,
+        "labels": [
+          "size/s",
+          "mellon: checked"
+        ]
+      },
+      {
+        "title": "fix(web): clear query cache before navigating on sign-out",
+        "url": "https://github.com/usekaneo/kaneo/pull/2165",
+        "number": 2165,
+        "repo": "usekaneo/kaneo",
+        "repoUrl": "https://github.com/usekaneo/kaneo",
+        "repoStars": 9782,
+        "owner": "usekaneo",
+        "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
+        "own": false,
+        "status": "merged",
+        "draft": false,
+        "createdAt": "2026-11-01T05:57:43Z",
+        "mergedAt": "2026-11-10T11:30:36Z",
+        "closedAt": "2026-11-10T11:30:36Z",
+        "additions": 87,
+        "deletions": 8,
+        "labels": [
+          "size/s",
+          "mellon: reviewed-human"
+        ]
+      }
+    ],
+    "issues": [],
+    "contributions": {
+      "total": 161,
+      "commits": 113,
+      "pullRequests": 10,
+      "reviews": 0,
+      "issues": 0,
+      "privateContributions": 17,
+      "start": "2025-11-11",
+      "end": "2026-11-11",
+      "weeks": [
+        [
+          [
+            "2025-11-11",
+            0,
+            2
+          ],
+          [
+            "2025-11-12",
+            0,
+            3
+          ],
+          [
+            "2025-11-13",
+            0,
+            4
+          ],
+          [
+            "2025-11-14",
+            0,
+            5
+          ],
+          [
+            "2025-11-15",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-11-16",
+            0,
+            0
+          ],
+          [
+            "2025-11-17",
+            0,
+            1
+          ],
+          [
+            "2025-11-18",
+            0,
+            2
+          ],
+          [
+            "2025-11-19",
+            0,
+            3
+          ],
+          [
+            "2025-11-20",
+            0,
+            4
+          ],
+          [
+            "2025-11-21",
+            0,
+            5
+          ],
+          [
+            "2025-11-22",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-11-23",
+            0,
+            0
+          ],
+          [
+            "2025-11-24",
+            0,
+            1
+          ],
+          [
+            "2025-11-25",
+            0,
+            2
+          ],
+          [
+            "2025-11-26",
+            0,
+            3
+          ],
+          [
+            "2025-11-27",
+            0,
+            4
+          ],
+          [
+            "2025-11-28",
+            0,
+            5
+          ],
+          [
+            "2025-11-29",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-11-30",
+            0,
+            0
+          ],
+          [
+            "2025-12-01",
+            0,
+            1
+          ],
+          [
+            "2025-12-02",
+            0,
+            2
+          ],
+          [
+            "2025-12-03",
+            0,
+            3
+          ],
+          [
+            "2025-12-04",
+            0,
+            4
+          ],
+          [
+            "2025-12-05",
+            0,
+            5
+          ],
+          [
+            "2025-12-06",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-12-07",
+            0,
+            0
+          ],
+          [
+            "2025-12-08",
+            0,
+            1
+          ],
+          [
+            "2025-12-09",
+            0,
+            2
+          ],
+          [
+            "2025-12-10",
+            0,
+            3
+          ],
+          [
+            "2025-12-11",
+            0,
+            4
+          ],
+          [
+            "2025-12-12",
+            0,
+            5
+          ],
+          [
+            "2025-12-13",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-12-14",
+            0,
+            0
+          ],
+          [
+            "2025-12-15",
+            0,
+            1
+          ],
+          [
+            "2025-12-16",
+            0,
+            2
+          ],
+          [
+            "2025-12-17",
+            0,
+            3
+          ],
+          [
+            "2025-12-18",
+            0,
+            4
+          ],
+          [
+            "2025-12-19",
+            0,
+            5
+          ],
+          [
+            "2025-12-20",
+            3,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-12-21",
+            0,
+            0
+          ],
+          [
+            "2025-12-22",
+            0,
+            1
+          ],
+          [
+            "2025-12-23",
+            0,
+            2
+          ],
+          [
+            "2025-12-24",
+            0,
+            3
+          ],
+          [
+            "2025-12-25",
+            0,
+            4
+          ],
+          [
+            "2025-12-26",
+            0,
+            5
+          ],
+          [
+            "2025-12-27",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2025-12-28",
+            0,
+            0
+          ],
+          [
+            "2025-12-29",
+            0,
+            1
+          ],
+          [
+            "2025-12-30",
+            0,
+            2
+          ],
+          [
+            "2025-12-31",
+            0,
+            3
+          ],
+          [
+            "2026-01-01",
+            0,
+            4
+          ],
+          [
+            "2026-01-02",
+            0,
+            5
+          ],
+          [
+            "2026-01-03",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-01-04",
+            0,
+            0
+          ],
+          [
+            "2026-01-05",
+            0,
+            1
+          ],
+          [
+            "2026-01-06",
+            0,
+            2
+          ],
+          [
+            "2026-01-07",
+            0,
+            3
+          ],
+          [
+            "2026-01-08",
+            0,
+            4
+          ],
+          [
+            "2026-01-09",
+            0,
+            5
+          ],
+          [
+            "2026-01-10",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-01-11",
+            0,
+            0
+          ],
+          [
+            "2026-01-12",
+            0,
+            1
+          ],
+          [
+            "2026-01-13",
+            0,
+            2
+          ],
+          [
+            "2026-01-14",
+            0,
+            3
+          ],
+          [
+            "2026-01-15",
+            0,
+            4
+          ],
+          [
+            "2026-01-16",
+            0,
+            5
+          ],
+          [
+            "2026-01-17",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-01-18",
+            0,
+            0
+          ],
+          [
+            "2026-01-19",
+            0,
+            1
+          ],
+          [
+            "2026-01-20",
+            0,
+            2
+          ],
+          [
+            "2026-01-21",
+            0,
+            3
+          ],
+          [
+            "2026-01-22",
+            0,
+            4
+          ],
+          [
+            "2026-01-23",
+            0,
+            5
+          ],
+          [
+            "2026-01-24",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-01-25",
+            0,
+            0
+          ],
+          [
+            "2026-01-26",
+            0,
+            1
+          ],
+          [
+            "2026-01-27",
+            0,
+            2
+          ],
+          [
+            "2026-01-28",
+            0,
+            3
+          ],
+          [
+            "2026-01-29",
+            0,
+            4
+          ],
+          [
+            "2026-01-30",
+            0,
+            5
+          ],
+          [
+            "2026-01-31",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-02-01",
+            0,
+            0
+          ],
+          [
+            "2026-02-02",
+            0,
+            1
+          ],
+          [
+            "2026-02-03",
+            0,
+            2
+          ],
+          [
+            "2026-02-04",
+            0,
+            3
+          ],
+          [
+            "2026-02-05",
+            0,
+            4
+          ],
+          [
+            "2026-02-06",
+            3,
+            5
+          ],
+          [
+            "2026-02-07",
+            1,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-02-08",
+            0,
+            0
+          ],
+          [
+            "2026-02-09",
+            0,
+            1
+          ],
+          [
+            "2026-02-10",
+            0,
+            2
+          ],
+          [
+            "2026-02-11",
+            0,
+            3
+          ],
+          [
+            "2026-02-12",
+            0,
+            4
+          ],
+          [
+            "2026-02-13",
+            0,
+            5
+          ],
+          [
+            "2026-02-14",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-02-15",
+            0,
+            0
+          ],
+          [
+            "2026-02-16",
+            0,
+            1
+          ],
+          [
+            "2026-02-17",
+            0,
+            2
+          ],
+          [
+            "2026-02-18",
+            0,
+            3
+          ],
+          [
+            "2026-02-19",
+            0,
+            4
+          ],
+          [
+            "2026-02-20",
+            0,
+            5
+          ],
+          [
+            "2026-02-21",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-02-22",
+            0,
+            0
+          ],
+          [
+            "2026-02-23",
+            0,
+            1
+          ],
+          [
+            "2026-02-24",
+            0,
+            2
+          ],
+          [
+            "2026-02-25",
+            0,
+            3
+          ],
+          [
+            "2026-02-26",
+            0,
+            4
+          ],
+          [
+            "2026-02-27",
+            0,
+            5
+          ],
+          [
+            "2026-02-28",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-03-01",
+            0,
+            0
+          ],
+          [
+            "2026-03-02",
+            0,
+            1
+          ],
+          [
+            "2026-03-03",
+            0,
+            2
+          ],
+          [
+            "2026-03-04",
+            0,
+            3
+          ],
+          [
+            "2026-03-05",
+            0,
+            4
+          ],
+          [
+            "2026-03-06",
+            0,
+            5
+          ],
+          [
+            "2026-03-07",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-03-08",
+            0,
+            0
+          ],
+          [
+            "2026-03-09",
+            0,
+            1
+          ],
+          [
+            "2026-03-10",
+            1,
+            2
+          ],
+          [
+            "2026-03-11",
+            0,
+            3
+          ],
+          [
+            "2026-03-12",
+            0,
+            4
+          ],
+          [
+            "2026-03-13",
+            0,
+            5
+          ],
+          [
+            "2026-03-14",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-03-15",
+            0,
+            0
+          ],
+          [
+            "2026-03-16",
+            0,
+            1
+          ],
+          [
+            "2026-03-17",
+            0,
+            2
+          ],
+          [
+            "2026-03-18",
+            0,
+            3
+          ],
+          [
+            "2026-03-19",
+            0,
+            4
+          ],
+          [
+            "2026-03-20",
+            0,
+            5
+          ],
+          [
+            "2026-03-21",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-03-22",
+            0,
+            0
+          ],
+          [
+            "2026-03-23",
+            0,
+            1
+          ],
+          [
+            "2026-03-24",
+            0,
+            2
+          ],
+          [
+            "2026-03-25",
+            0,
+            3
+          ],
+          [
+            "2026-03-26",
+            0,
+            4
+          ],
+          [
+            "2026-03-27",
+            0,
+            5
+          ],
+          [
+            "2026-03-28",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-03-29",
+            0,
+            0
+          ],
+          [
+            "2026-03-30",
+            0,
+            1
+          ],
+          [
+            "2026-03-31",
+            0,
+            2
+          ],
+          [
+            "2026-04-01",
+            0,
+            3
+          ],
+          [
+            "2026-04-02",
+            0,
+            4
+          ],
+          [
+            "2026-04-03",
+            0,
+            5
+          ],
+          [
+            "2026-04-04",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-04-05",
+            0,
+            0
+          ],
+          [
+            "2026-04-06",
+            0,
+            1
+          ],
+          [
+            "2026-04-07",
+            0,
+            2
+          ],
+          [
+            "2026-04-08",
+            0,
+            3
+          ],
+          [
+            "2026-04-09",
+            0,
+            4
+          ],
+          [
+            "2026-04-10",
+            0,
+            5
+          ],
+          [
+            "2026-04-11",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-04-12",
+            0,
+            0
+          ],
+          [
+            "2026-04-13",
+            0,
+            1
+          ],
+          [
+            "2026-04-14",
+            0,
+            2
+          ],
+          [
+            "2026-04-15",
+            0,
+            3
+          ],
+          [
+            "2026-04-16",
+            0,
+            4
+          ],
+          [
+            "2026-04-17",
+            4,
+            5
+          ],
+          [
+            "2026-04-18",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-04-19",
+            0,
+            0
+          ],
+          [
+            "2026-04-20",
+            0,
+            1
+          ],
+          [
+            "2026-04-21",
+            0,
+            2
+          ],
+          [
+            "2026-04-22",
+            0,
+            3
+          ],
+          [
+            "2026-04-23",
+            0,
+            4
+          ],
+          [
+            "2026-04-24",
+            0,
+            5
+          ],
+          [
+            "2026-04-25",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-04-26",
+            0,
+            0
+          ],
+          [
+            "2026-04-27",
+            0,
+            1
+          ],
+          [
+            "2026-04-28",
+            0,
+            2
+          ],
+          [
+            "2026-04-29",
+            0,
+            3
+          ],
+          [
+            "2026-04-30",
+            0,
+            4
+          ],
+          [
+            "2026-05-01",
+            0,
+            5
+          ],
+          [
+            "2026-05-02",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-05-03",
+            0,
+            0
+          ],
+          [
+            "2026-05-04",
+            0,
+            1
+          ],
+          [
+            "2026-05-05",
+            0,
+            2
+          ],
+          [
+            "2026-05-06",
+            0,
+            3
+          ],
+          [
+            "2026-05-07",
+            0,
+            4
+          ],
+          [
+            "2026-05-08",
+            0,
+            5
+          ],
+          [
+            "2026-05-09",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-05-10",
+            0,
+            0
+          ],
+          [
+            "2026-05-11",
+            0,
+            1
+          ],
+          [
+            "2026-05-12",
+            0,
+            2
+          ],
+          [
+            "2026-05-13",
+            0,
+            3
+          ],
+          [
+            "2026-05-14",
+            0,
+            4
+          ],
+          [
+            "2026-05-15",
+            0,
+            5
+          ],
+          [
+            "2026-05-16",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-05-17",
+            0,
+            0
+          ],
+          [
+            "2026-05-18",
+            4,
+            1
+          ],
+          [
+            "2026-05-19",
+            0,
+            2
+          ],
+          [
+            "2026-05-20",
+            0,
+            3
+          ],
+          [
+            "2026-05-21",
+            0,
+            4
+          ],
+          [
+            "2026-05-22",
+            0,
+            5
+          ],
+          [
+            "2026-05-23",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-05-24",
+            1,
+            0
+          ],
+          [
+            "2026-05-25",
+            0,
+            1
+          ],
+          [
+            "2026-05-26",
+            0,
+            2
+          ],
+          [
+            "2026-05-27",
+            1,
+            3
+          ],
+          [
+            "2026-05-28",
+            0,
+            4
+          ],
+          [
+            "2026-05-29",
+            0,
+            5
+          ],
+          [
+            "2026-05-30",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-05-31",
+            0,
+            0
+          ],
+          [
+            "2026-06-01",
+            0,
+            1
+          ],
+          [
+            "2026-06-02",
+            0,
+            2
+          ],
+          [
+            "2026-06-03",
+            0,
+            3
+          ],
+          [
+            "2026-06-04",
+            0,
+            4
+          ],
+          [
+            "2026-06-05",
+            0,
+            5
+          ],
+          [
+            "2026-06-06",
+            4,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-06-07",
+            6,
+            0
+          ],
+          [
+            "2026-06-08",
+            0,
+            1
+          ],
+          [
+            "2026-06-09",
+            1,
+            2
+          ],
+          [
+            "2026-06-10",
+            0,
+            3
+          ],
+          [
+            "2026-06-11",
+            2,
+            4
+          ],
+          [
+            "2026-06-12",
+            0,
+            5
+          ],
+          [
+            "2026-06-13",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-06-14",
+            0,
+            0
+          ],
+          [
+            "2026-06-15",
+            0,
+            1
+          ],
+          [
+            "2026-06-16",
+            0,
+            2
+          ],
+          [
+            "2026-06-17",
+            0,
+            3
+          ],
+          [
+            "2026-06-18",
+            0,
+            4
+          ],
+          [
+            "2026-06-19",
+            0,
+            5
+          ],
+          [
+            "2026-06-20",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-06-21",
+            0,
+            0
+          ],
+          [
+            "2026-06-22",
+            0,
+            1
+          ],
+          [
+            "2026-06-23",
+            0,
+            2
+          ],
+          [
+            "2026-06-24",
+            3,
+            3
+          ],
+          [
+            "2026-06-25",
+            0,
+            4
+          ],
+          [
+            "2026-06-26",
+            0,
+            5
+          ],
+          [
+            "2026-06-27",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-06-28",
+            0,
+            0
+          ],
+          [
+            "2026-06-29",
+            0,
+            1
+          ],
+          [
+            "2026-06-30",
+            0,
+            2
+          ],
+          [
+            "2026-07-01",
+            0,
+            3
+          ],
+          [
+            "2026-07-02",
+            1,
+            4
+          ],
+          [
+            "2026-07-03",
+            0,
+            5
+          ],
+          [
+            "2026-07-04",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-07-05",
+            0,
+            0
+          ],
+          [
+            "2026-07-06",
+            0,
+            1
+          ],
+          [
+            "2026-07-07",
+            0,
+            2
+          ],
+          [
+            "2026-07-08",
+            0,
+            3
+          ],
+          [
+            "2026-07-09",
+            0,
+            4
+          ],
+          [
+            "2026-07-10",
+            0,
+            5
+          ],
+          [
+            "2026-07-11",
+            3,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-07-12",
+            0,
+            0
+          ],
+          [
+            "2026-07-13",
+            0,
+            1
+          ],
+          [
+            "2026-07-14",
+            0,
+            2
+          ],
+          [
+            "2026-07-15",
+            0,
+            3
+          ],
+          [
+            "2026-07-16",
+            0,
+            4
+          ],
+          [
+            "2026-07-17",
+            2,
+            5
+          ],
+          [
+            "2026-07-18",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-07-19",
+            0,
+            0
+          ],
+          [
+            "2026-07-20",
+            0,
+            1
+          ],
+          [
+            "2026-07-21",
+            0,
+            2
+          ],
+          [
+            "2026-07-22",
+            0,
+            3
+          ],
+          [
+            "2026-07-23",
+            0,
+            4
+          ],
+          [
+            "2026-07-24",
+            3,
+            5
+          ],
+          [
+            "2026-07-25",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-07-26",
+            0,
+            0
+          ],
+          [
+            "2026-07-27",
+            0,
+            1
+          ],
+          [
+            "2026-07-28",
+            0,
+            2
+          ],
+          [
+            "2026-07-29",
+            0,
+            3
+          ],
+          [
+            "2026-07-30",
+            0,
+            4
+          ],
+          [
+            "2026-07-31",
+            0,
+            5
+          ],
+          [
+            "2026-08-01",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-08-02",
+            0,
+            0
+          ],
+          [
+            "2026-08-03",
+            0,
+            1
+          ],
+          [
+            "2026-08-04",
+            0,
+            2
+          ],
+          [
+            "2026-08-05",
+            0,
+            3
+          ],
+          [
+            "2026-08-06",
+            0,
+            4
+          ],
+          [
+            "2026-08-07",
+            0,
+            5
+          ],
+          [
+            "2026-08-08",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-08-09",
+            0,
+            0
+          ],
+          [
+            "2026-08-10",
+            0,
+            1
+          ],
+          [
+            "2026-08-11",
+            0,
+            2
+          ],
+          [
+            "2026-08-12",
+            0,
+            3
+          ],
+          [
+            "2026-08-13",
+            0,
+            4
+          ],
+          [
+            "2026-08-14",
+            0,
+            5
+          ],
+          [
+            "2026-08-15",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-08-16",
+            0,
+            0
+          ],
+          [
+            "2026-08-17",
+            0,
+            1
+          ],
+          [
+            "2026-08-18",
+            0,
+            2
+          ],
+          [
+            "2026-08-19",
+            0,
+            3
+          ],
+          [
+            "2026-08-20",
+            0,
+            4
+          ],
+          [
+            "2026-08-21",
+            0,
+            5
+          ],
+          [
+            "2026-08-22",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-08-23",
+            0,
+            0
+          ],
+          [
+            "2026-08-24",
+            0,
+            1
+          ],
+          [
+            "2026-08-25",
+            1,
+            2
+          ],
+          [
+            "2026-08-26",
+            2,
+            3
+          ],
+          [
+            "2026-08-27",
+            0,
+            4
+          ],
+          [
+            "2026-08-28",
+            0,
+            5
+          ],
+          [
+            "2026-08-29",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-08-30",
+            0,
+            0
+          ],
+          [
+            "2026-08-31",
+            0,
+            1
+          ],
+          [
+            "2026-09-01",
+            0,
+            2
+          ],
+          [
+            "2026-09-02",
+            0,
+            3
+          ],
+          [
+            "2026-09-03",
+            0,
+            4
+          ],
+          [
+            "2026-09-04",
+            2,
+            5
+          ],
+          [
+            "2026-09-05",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-09-06",
+            0,
+            0
+          ],
+          [
+            "2026-09-07",
+            0,
+            1
+          ],
+          [
+            "2026-09-08",
+            0,
+            2
+          ],
+          [
+            "2026-09-09",
+            0,
+            3
+          ],
+          [
+            "2026-09-10",
+            10,
+            4
+          ],
+          [
+            "2026-09-11",
+            0,
+            5
+          ],
+          [
+            "2026-09-12",
+            1,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-09-13",
+            3,
+            0
+          ],
+          [
+            "2026-09-14",
+            0,
+            1
+          ],
+          [
+            "2026-09-15",
+            0,
+            2
+          ],
+          [
+            "2026-09-16",
+            4,
+            3
+          ],
+          [
+            "2026-09-17",
+            1,
+            4
+          ],
+          [
+            "2026-09-18",
+            2,
+            5
+          ],
+          [
+            "2026-09-19",
+            1,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-09-20",
+            0,
+            0
+          ],
+          [
+            "2026-09-21",
+            3,
+            1
+          ],
+          [
+            "2026-09-22",
+            7,
+            2
+          ],
+          [
+            "2026-09-23",
+            0,
+            3
+          ],
+          [
+            "2026-09-24",
+            0,
+            4
+          ],
+          [
+            "2026-09-25",
+            0,
+            5
+          ],
+          [
+            "2026-09-26",
+            2,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-09-27",
+            0,
+            0
+          ],
+          [
+            "2026-09-28",
+            0,
+            1
+          ],
+          [
+            "2026-09-29",
+            0,
+            2
+          ],
+          [
+            "2026-09-30",
+            0,
+            3
+          ],
+          [
+            "2026-10-01",
+            0,
+            4
+          ],
+          [
+            "2026-10-02",
+            0,
+            5
+          ],
+          [
+            "2026-10-03",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-10-04",
+            2,
+            0
+          ],
+          [
+            "2026-10-05",
+            0,
+            1
+          ],
+          [
+            "2026-10-06",
+            0,
+            2
+          ],
+          [
+            "2026-10-07",
+            0,
+            3
+          ],
+          [
+            "2026-10-08",
+            0,
+            4
+          ],
+          [
+            "2026-10-09",
+            0,
+            5
+          ],
+          [
+            "2026-10-10",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-10-11",
+            0,
+            0
+          ],
+          [
+            "2026-10-12",
+            5,
+            1
+          ],
+          [
+            "2026-10-13",
+            4,
+            2
+          ],
+          [
+            "2026-10-14",
+            1,
+            3
+          ],
+          [
+            "2026-10-15",
+            0,
+            4
+          ],
+          [
+            "2026-10-16",
+            1,
+            5
+          ],
+          [
+            "2026-10-17",
+            0,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-10-18",
+            0,
+            0
+          ],
+          [
+            "2026-10-19",
+            0,
+            1
+          ],
+          [
+            "2026-10-20",
+            0,
+            2
+          ],
+          [
+            "2026-10-21",
+            0,
+            3
+          ],
+          [
+            "2026-10-22",
+            2,
+            4
+          ],
+          [
+            "2026-10-23",
+            5,
+            5
+          ],
+          [
+            "2026-10-24",
+            8,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-10-25",
+            2,
+            0
+          ],
+          [
+            "2026-10-26",
+            5,
+            1
+          ],
+          [
+            "2026-10-27",
+            1,
+            2
+          ],
+          [
+            "2026-10-28",
+            4,
+            3
+          ],
+          [
+            "2026-10-29",
+            5,
+            4
+          ],
+          [
+            "2026-10-30",
+            6,
+            5
+          ],
+          [
+            "2026-10-31",
+            2,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-11-01",
+            3,
+            0
+          ],
+          [
+            "2026-11-02",
+            3,
+            1
+          ],
+          [
+            "2026-11-03",
+            8,
+            2
+          ],
+          [
+            "2026-11-04",
+            1,
+            3
+          ],
+          [
+            "2026-11-05",
+            3,
+            4
+          ],
+          [
+            "2026-11-06",
+            1,
+            5
+          ],
+          [
+            "2026-11-07",
+            3,
+            6
+          ]
+        ],
+        [
+          [
+            "2026-11-08",
+            1,
+            0
+          ],
+          [
+            "2026-11-09",
+            0,
+            1
+          ],
+          [
+            "2026-11-10",
+            3,
+            2
+          ],
+          [
+            "2026-11-11",
+            0,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  "leetcode": {
+    "username": "Mansingh876",
+    "url": "https://leetcode.com/u/Mansingh876/",
+    "ranking": 173133,
+    "solved": {
+      "all": 561,
+      "easy": 115,
+      "medium": 358,
+      "hard": 88
+    },
+    "totals": {
+      "all": 4110,
+      "easy": 975,
+      "medium": 2146,
+      "hard": 989
+    },
+    "badges": [
+      {
+        "name": "Knight",
+        "date": "2026-05-06"
+      },
+      {
+        "name": "200 Days Badge 2026",
+        "date": "2026-08-23"
+      },
+      {
+        "name": "100 Days Badge 2026",
+        "date": "2026-04-26"
+      },
+      {
+        "name": "50 Days Badge 2026",
+        "date": "2026-03-07"
+      }
+    ],
+    "contest": {
+      "rating": 1902,
+      "attended": 18,
+      "globalRanking": 40318,
+      "topPercentage": 4.65,
+      "badge": "Knight"
+    },
+    "history": [
+      {
+        "rating": 1595,
+        "date": "2026-01-25",
+        "contest": "Weekly Contest 486"
+      },
+      {
+        "rating": 1688,
+        "date": "2026-01-31",
+        "contest": "Biweekly Contest 175"
+      },
+      {
+        "rating": 1679,
+        "date": "2026-02-14",
+        "contest": "Biweekly Contest 176"
+      },
+      {
+        "rating": 1682,
+        "date": "2026-02-15",
+        "contest": "Weekly Contest 489"
+      },
+      {
+        "rating": 1669,
+        "date": "2026-02-22",
+        "contest": "Weekly Contest 490"
+      },
+      {
+        "rating": 1698,
+        "date": "2026-02-28",
+        "contest": "Biweekly Contest 177"
+      },
+      {
+        "rating": 1708,
+        "date": "2026-03-01",
+        "contest": "Weekly Contest 491"
+      },
+      {
+        "rating": 1709,
+        "date": "2026-03-08",
+        "contest": "Weekly Contest 492"
+      },
+      {
+        "rating": 1766,
+        "date": "2026-03-15",
+        "contest": "Weekly Contest 493"
+      },
+      {
+        "rating": 1806,
+        "date": "2026-03-28",
+        "contest": "Biweekly Contest 179"
+      },
+      {
+        "rating": 1843,
+        "date": "2026-04-05",
+        "contest": "Weekly Contest 496"
+      },
+      {
+        "rating": 1820,
+        "date": "2026-04-11",
+        "contest": "Biweekly Contest 180"
+      },
+      {
+        "rating": 1868,
+        "date": "2026-04-12",
+        "contest": "Weekly Contest 497"
+      },
+      {
+        "rating": 1858,
+        "date": "2026-04-19",
+        "contest": "Weekly Contest 498"
+      },
+      {
+        "rating": 1884,
+        "date": "2026-05-10",
+        "contest": "Weekly Contest 501"
+      },
+      {
+        "rating": 1934,
+        "date": "2026-05-31",
+        "contest": "Weekly Contest 504"
+      },
+      {
+        "rating": 1902,
+        "date": "2026-06-07",
+        "contest": "Weekly Contest 505"
+      }
+    ]
+  },
+  "codeforces": {
+    "handle": "maansimaan02",
+    "url": "https://codeforces.com/profile/maansimaan02",
+    "rating": 1101,
+    "maxRating": 1291,
+    "rank": "newbie",
+    "maxRank": "pupil",
+    "solved": 231,
+    "contests": 19,
+    "history": [
+      {
+        "rating": 397,
+        "date": "2025-12-23",
+        "contest": "Codeforces Round 1071 (Div. 3)",
+        "rank": 16654
+      },
+      {
+        "rating": 617,
+        "date": "2026-01-23",
+        "contest": "Codeforces Round 1075 (Div. 2)",
+        "rank": 15957
+      },
+      {
+        "rating": 747,
+        "date": "2026-01-29",
+        "contest": "Codeforces Round 1077 (Div. 2)",
+        "rank": 17561
+      },
+      {
+        "rating": 851,
+        "date": "2026-02-11",
+        "contest": "Codeforces Round 1079 (Div. 2)",
+        "rank": 12518
+      },
+      {
+        "rating": 1012,
+        "date": "2026-02-15",
+        "contest": "Codeforces Round 1080 (Div. 3)",
+        "rank": 7275
+      },
+      {
+        "rating": 951,
+        "date": "2026-02-21",
+        "contest": "Codeforces Round 1081 (Div. 2)",
+        "rank": 12362
+      },
+      {
+        "rating": 972,
+        "date": "2026-02-26",
+        "contest": "Codeforces Round 1083 (Div. 2)",
+        "rank": 6876
+      },
+      {
+        "rating": 982,
+        "date": "2026-02-27",
+        "contest": "Codeforces Round 1084 (Div. 3)",
+        "rank": 8189
+      },
+      {
+        "rating": 887,
+        "date": "2026-03-08",
+        "contest": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+        "rank": 7540
+      },
+      {
+        "rating": 1038,
+        "date": "2026-03-14",
+        "contest": "Codeforces Round 1086 (Div. 2)",
+        "rank": 4495
+      },
+      {
+        "rating": 1169,
+        "date": "2026-03-16",
+        "contest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+        "rank": 3103
+      },
+      {
+        "rating": 1284,
+        "date": "2026-03-21",
+        "contest": "Codeforces Round 1087 (Div. 2)",
+        "rank": 2486
+      },
+      {
+        "rating": 1291,
+        "date": "2026-03-28",
+        "contest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+        "rank": 5373
+      },
+      {
+        "rating": 1222,
+        "date": "2026-03-29",
+        "contest": "Codeforces Round 1089 (Div. 2)",
+        "rank": 9917
+      },
+      {
+        "rating": 1120,
+        "date": "2026-04-07",
+        "contest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+        "rank": 14407
+      },
+      {
+        "rating": 1262,
+        "date": "2026-04-13",
+        "contest": "Codeforces Round 1093 (Div. 2)",
+        "rank": 1819
+      },
+      {
+        "rating": 1189,
+        "date": "2026-04-21",
+        "contest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+        "rank": 8910
+      },
+      {
+        "rating": 1142,
+        "date": "2026-04-30",
+        "contest": "Codeforces Round 1096 (Div. 3)",
+        "rank": 7492
+      },
+      {
+        "rating": 1101,
+        "date": "2026-05-16",
+        "contest": "Codeforces Round 1098 (Div. 2)",
+        "rank": 9897
+      }
+    ]
+  },
+  "generatedAt": "2026-11-11T10:02:12.818Z"
+}
