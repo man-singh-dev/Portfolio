@@ -7,7 +7,7 @@
     "isFork": false,
     "stargazerCount": 1,
     "forkCount": 0,
-    "updatedAt": "2026-11-10T21:31:00Z",
+    "updatedAt": "2026-11-11T21:00:14Z",
     "createdAt": "2026-10-22T16:35:55Z",
     "primaryLanguage": {
       "name": "TypeScript",
@@ -16,7 +16,7 @@
     "languages": {
       "edges": [
         {
-          "size": 848267,
+          "size": 1020090,
           "node": {
             "name": "TypeScript",
             "color": "#3178c6"
@@ -34,6 +34,56 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "Portfolio",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/Portfolio",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-11-11T17:04:15Z",
+    "createdAt": "2026-11-11T17:00:39Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 193998,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 13358,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 8946,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 973,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
           }
         }
       ]

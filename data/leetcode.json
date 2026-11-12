@@ -3,13 +3,13 @@
     "matchedUser": {
       "username": "Mansingh876",
       "profile": {
-        "ranking": 173133
+        "ranking": 170625
       },
       "submitStatsGlobal": {
         "acSubmissionNum": [
           {
             "difficulty": "All",
-            "count": 561
+            "count": 562
           },
           {
             "difficulty": "Easy",
@@ -17,7 +17,7 @@
           },
           {
             "difficulty": "Medium",
-            "count": 358
+            "count": 359
           },
           {
             "difficulty": "Hard",

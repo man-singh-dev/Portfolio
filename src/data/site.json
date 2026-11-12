@@ -12,7 +12,7 @@
         "languages": [
           {
             "name": "TypeScript",
-            "size": 848267
+            "size": 1020090
           },
           {
             "name": "JavaScript",
@@ -26,8 +26,39 @@
         "stars": 1,
         "forks": 0,
         "topics": [],
-        "updatedAt": "2026-11-10T21:31:00Z",
+        "updatedAt": "2026-11-11T21:00:14Z",
         "createdAt": "2026-10-22T16:35:55Z"
+      },
+      {
+        "name": "Portfolio",
+        "description": "",
+        "url": "https://github.com/man-singh-dev/Portfolio",
+        "homepage": "",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "languages": [
+          {
+            "name": "TypeScript",
+            "size": 193998
+          },
+          {
+            "name": "JavaScript",
+            "size": 13358
+          },
+          {
+            "name": "CSS",
+            "size": 8946
+          },
+          {
+            "name": "Python",
+            "size": 973
+          }
+        ],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-11-11T17:04:15Z",
+        "createdAt": "2026-11-11T17:00:39Z"
       },
       {
         "name": "GSTLens",
@@ -468,7 +499,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9782,
+        "repoStars": 9791,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -490,7 +521,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9782,
+        "repoStars": 9791,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -509,21 +540,16 @@
     ],
     "issues": [],
     "contributions": {
-      "total": 161,
-      "commits": 113,
+      "total": 169,
+      "commits": 120,
       "pullRequests": 10,
       "reviews": 0,
       "issues": 0,
       "privateContributions": 17,
-      "start": "2025-11-11",
-      "end": "2026-11-11",
+      "start": "2025-11-12",
+      "end": "2026-11-12",
       "weeks": [
         [
-          [
-            "2025-11-11",
-            0,
-            2
-          ],
           [
             "2025-11-12",
             0,
@@ -1540,14 +1566,14 @@
           ],
           [
             "2026-05-23",
-            0,
+            1,
             6
           ]
         ],
         [
           [
             "2026-05-24",
-            1,
+            0,
             0
           ],
           [
@@ -1609,12 +1635,12 @@
           ],
           [
             "2026-06-05",
-            0,
+            1,
             5
           ],
           [
             "2026-06-06",
-            4,
+            3,
             6
           ]
         ],
@@ -2450,8 +2476,13 @@
           ],
           [
             "2026-11-11",
-            0,
+            4,
             3
+          ],
+          [
+            "2026-11-12",
+            4,
+            4
           ]
         ]
       ]
@@ -2460,11 +2491,11 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 173133,
+    "ranking": 170625,
     "solved": {
-      "all": 561,
+      "all": 562,
       "easy": 115,
-      "medium": 358,
+      "medium": 359,
       "hard": 88
     },
     "totals": {
@@ -2712,5 +2743,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-11T10:02:12.818Z"
+  "generatedAt": "2026-11-12T11:05:17.062Z"
 }
