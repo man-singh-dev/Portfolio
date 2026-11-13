@@ -1,5 +1,35 @@
 [
   {
+    "title": "   [UI] Design validator: accept commands in all states, per-request reply addresses (part of #23407)",
+    "url": "https://github.com/meshery/meshery/pull/23431",
+    "number": 23431,
+    "state": "OPEN",
+    "createdAt": "2026-11-13T09:18:43Z",
+    "closedAt": null,
+    "mergedAt": null,
+    "additions": 779,
+    "deletions": 80,
+    "changedFiles": 6,
+    "isDraft": false,
+    "labels": {
+      "nodes": [
+        {
+          "name": "component/ui"
+        }
+      ]
+    },
+    "repository": {
+      "nameWithOwner": "meshery/meshery",
+      "isPrivate": false,
+      "stargazerCount": 12180,
+      "url": "https://github.com/meshery/meshery",
+      "owner": {
+        "login": "meshery",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52376019?v=4"
+      }
+    }
+  },
+  {
     "title": "fix(web): clear query cache before navigating on sign-out",
     "url": "https://github.com/usekaneo/kaneo/pull/2165",
     "number": 2165,
@@ -24,7 +54,7 @@
     "repository": {
       "nameWithOwner": "usekaneo/kaneo",
       "isPrivate": false,
-      "stargazerCount": 9791,
+      "stargazerCount": 9797,
       "url": "https://github.com/usekaneo/kaneo",
       "owner": {
         "login": "usekaneo",
@@ -48,16 +78,13 @@
       "nodes": [
         {
           "name": "size/s"
-        },
-        {
-          "name": "mellon: checked"
         }
       ]
     },
     "repository": {
       "nameWithOwner": "usekaneo/kaneo",
       "isPrivate": false,
-      "stargazerCount": 9791,
+      "stargazerCount": 9797,
       "url": "https://github.com/usekaneo/kaneo",
       "owner": {
         "login": "usekaneo",

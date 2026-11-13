@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
+    "url": "https://github.com/meshery/meshery/issues/23408",
+    "number": 23408,
+    "state": "OPEN",
+    "createdAt": "2026-11-13T07:26:23Z",
+    "closedAt": null,
+    "repository": {
+      "nameWithOwner": "meshery/meshery",
+      "isPrivate": false,
+      "url": "https://github.com/meshery/meshery",
+      "owner": {
+        "login": "meshery",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52376019?v=4"
+      }
+    }
+  },
+  {
+    "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
+    "url": "https://github.com/meshery/meshery/issues/23406",
+    "number": 23406,
+    "state": "OPEN",
+    "createdAt": "2026-11-13T06:59:04Z",
+    "closedAt": null,
+    "repository": {
+      "nameWithOwner": "meshery/meshery",
+      "isPrivate": false,
+      "url": "https://github.com/meshery/meshery",
+      "owner": {
+        "login": "meshery",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52376019?v=4"
+      }
+    }
+  },
+  {
+    "title": "[mesheryctl] Enforce exact argument validation in system stop, update, and delete",
+    "url": "https://github.com/meshery/meshery/issues/23354",
+    "number": 23354,
+    "state": "CLOSED",
+    "createdAt": "2026-11-12T18:14:33Z",
+    "closedAt": "2026-11-13T05:14:23Z",
+    "repository": {
+      "nameWithOwner": "meshery/meshery",
+      "isPrivate": false,
+      "url": "https://github.com/meshery/meshery",
+      "owner": {
+        "login": "meshery",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52376019?v=4"
+      }
+    }
+  }
+]

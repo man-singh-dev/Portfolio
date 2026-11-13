@@ -12,7 +12,7 @@
         "languages": [
           {
             "name": "TypeScript",
-            "size": 1020090
+            "size": 1268617
           },
           {
             "name": "JavaScript",
@@ -26,7 +26,7 @@
         "stars": 1,
         "forks": 0,
         "topics": [],
-        "updatedAt": "2026-11-11T21:00:14Z",
+        "updatedAt": "2026-11-12T15:58:21Z",
         "createdAt": "2026-10-22T16:35:55Z"
       },
       {
@@ -57,7 +57,7 @@
         "stars": 0,
         "forks": 0,
         "topics": [],
-        "updatedAt": "2026-11-11T17:04:15Z",
+        "updatedAt": "2026-11-12T12:05:21Z",
         "createdAt": "2026-11-11T17:00:39Z"
       },
       {
@@ -499,7 +499,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9791,
+        "repoStars": 9797,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -511,8 +511,7 @@
         "additions": 59,
         "deletions": 2,
         "labels": [
-          "size/s",
-          "mellon: checked"
+          "size/s"
         ]
       },
       {
@@ -521,7 +520,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9791,
+        "repoStars": 9797,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -536,25 +535,63 @@
           "size/s",
           "mellon: reviewed-human"
         ]
+      },
+      {
+        "title": "   [UI] Design validator: accept commands in all states, per-request reply addresses (part of #23407)",
+        "url": "https://github.com/meshery/meshery/pull/23431",
+        "number": 23431,
+        "repo": "meshery/meshery",
+        "repoUrl": "https://github.com/meshery/meshery",
+        "repoStars": 12180,
+        "owner": "meshery",
+        "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
+        "own": false,
+        "status": "open",
+        "draft": false,
+        "createdAt": "2026-11-13T09:18:43Z",
+        "mergedAt": null,
+        "closedAt": null,
+        "additions": 779,
+        "deletions": 80,
+        "labels": [
+          "component/ui"
+        ]
       }
     ],
-    "issues": [],
+    "issues": [
+      {
+        "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
+        "url": "https://github.com/meshery/meshery/issues/23408",
+        "repo": "meshery/meshery",
+        "state": "open",
+        "createdAt": "2026-11-13T07:26:23Z"
+      },
+      {
+        "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
+        "url": "https://github.com/meshery/meshery/issues/23406",
+        "repo": "meshery/meshery",
+        "state": "open",
+        "createdAt": "2026-11-13T06:59:04Z"
+      },
+      {
+        "title": "[mesheryctl] Enforce exact argument validation in system stop, update, and delete",
+        "url": "https://github.com/meshery/meshery/issues/23354",
+        "repo": "meshery/meshery",
+        "state": "closed",
+        "createdAt": "2026-11-12T18:14:33Z"
+      }
+    ],
     "contributions": {
-      "total": 169,
-      "commits": 120,
-      "pullRequests": 10,
+      "total": 178,
+      "commits": 124,
+      "pullRequests": 11,
       "reviews": 0,
-      "issues": 0,
+      "issues": 3,
       "privateContributions": 17,
-      "start": "2025-11-12",
-      "end": "2026-11-12",
+      "start": "2025-11-13",
+      "end": "2026-11-13",
       "weeks": [
         [
-          [
-            "2025-11-12",
-            0,
-            3
-          ],
           [
             "2025-11-13",
             0,
@@ -2481,8 +2518,13 @@
           ],
           [
             "2026-11-12",
-            4,
+            8,
             4
+          ],
+          [
+            "2026-11-13",
+            5,
+            5
           ]
         ]
       ]
@@ -2491,12 +2533,12 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 170625,
+    "ranking": 168718,
     "solved": {
-      "all": 562,
+      "all": 565,
       "easy": 115,
-      "medium": 359,
-      "hard": 88
+      "medium": 360,
+      "hard": 90
     },
     "totals": {
       "all": 4110,
@@ -2525,8 +2567,8 @@
     "contest": {
       "rating": 1902,
       "attended": 18,
-      "globalRanking": 40318,
-      "topPercentage": 4.65,
+      "globalRanking": 40431,
+      "topPercentage": 4.66,
       "badge": "Knight"
     },
     "history": [
@@ -2743,5 +2785,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-12T11:05:17.062Z"
+  "generatedAt": "2026-11-13T10:57:37.009Z"
 }

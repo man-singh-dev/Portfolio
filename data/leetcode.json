@@ -3,13 +3,13 @@
     "matchedUser": {
       "username": "Mansingh876",
       "profile": {
-        "ranking": 170625
+        "ranking": 168718
       },
       "submitStatsGlobal": {
         "acSubmissionNum": [
           {
             "difficulty": "All",
-            "count": 562
+            "count": 565
           },
           {
             "difficulty": "Easy",
@@ -17,11 +17,11 @@
           },
           {
             "difficulty": "Medium",
-            "count": 359
+            "count": 360
           },
           {
             "difficulty": "Hard",
-            "count": 88
+            "count": 90
           }
         ]
       },
@@ -73,9 +73,9 @@
     "userContestRanking": {
       "attendedContestsCount": 18,
       "rating": 1902.175,
-      "globalRanking": 40318,
-      "topPercentage": 4.65,
-      "totalParticipants": 891547,
+      "globalRanking": 40431,
+      "topPercentage": 4.66,
+      "totalParticipants": 892590,
       "badge": {
         "name": "Knight"
       }
