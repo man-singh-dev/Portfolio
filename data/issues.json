@@ -3,9 +3,9 @@
     "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
     "url": "https://github.com/meshery/meshery/issues/23408",
     "number": 23408,
-    "state": "OPEN",
+    "state": "CLOSED",
     "createdAt": "2026-11-13T07:26:23Z",
-    "closedAt": null,
+    "closedAt": "2026-11-14T00:26:49Z",
     "repository": {
       "nameWithOwner": "meshery/meshery",
       "isPrivate": false,
@@ -20,9 +20,9 @@
     "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
     "url": "https://github.com/meshery/meshery/issues/23406",
     "number": 23406,
-    "state": "OPEN",
+    "state": "CLOSED",
     "createdAt": "2026-11-13T06:59:04Z",
-    "closedAt": null,
+    "closedAt": "2026-11-13T13:41:05Z",
     "repository": {
       "nameWithOwner": "meshery/meshery",
       "isPrivate": false,

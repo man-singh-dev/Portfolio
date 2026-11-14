@@ -12,7 +12,7 @@
         "languages": [
           {
             "name": "TypeScript",
-            "size": 1268617
+            "size": 1303336
           },
           {
             "name": "JavaScript",
@@ -499,7 +499,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9797,
+        "repoStars": 9802,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -520,7 +520,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9797,
+        "repoStars": 9802,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -542,7 +542,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12180,
+        "repoStars": 12190,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -551,8 +551,8 @@
         "createdAt": "2026-11-13T09:18:43Z",
         "mergedAt": null,
         "closedAt": null,
-        "additions": 779,
-        "deletions": 80,
+        "additions": 888,
+        "deletions": 82,
         "labels": [
           "component/ui"
         ]
@@ -563,14 +563,14 @@
         "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
         "url": "https://github.com/meshery/meshery/issues/23408",
         "repo": "meshery/meshery",
-        "state": "open",
+        "state": "closed",
         "createdAt": "2026-11-13T07:26:23Z"
       },
       {
         "title": "[Server] MeshSync update events don't remove stale labels/annotations from the database",
         "url": "https://github.com/meshery/meshery/issues/23406",
         "repo": "meshery/meshery",
-        "state": "open",
+        "state": "closed",
         "createdAt": "2026-11-13T06:59:04Z"
       },
       {
@@ -582,21 +582,16 @@
       }
     ],
     "contributions": {
-      "total": 178,
-      "commits": 124,
+      "total": 181,
+      "commits": 125,
       "pullRequests": 11,
       "reviews": 0,
       "issues": 3,
-      "privateContributions": 17,
-      "start": "2025-11-13",
-      "end": "2026-11-13",
+      "privateContributions": 19,
+      "start": "2025-11-14",
+      "end": "2026-11-14",
       "weeks": [
         [
-          [
-            "2025-11-13",
-            0,
-            4
-          ],
           [
             "2025-11-14",
             0,
@@ -2525,6 +2520,11 @@
             "2026-11-13",
             5,
             5
+          ],
+          [
+            "2026-11-14",
+            3,
+            6
           ]
         ]
       ]
@@ -2785,5 +2785,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-13T10:57:37.009Z"
+  "generatedAt": "2026-11-14T10:23:57.293Z"
 }

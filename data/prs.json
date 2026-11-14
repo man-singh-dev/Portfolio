@@ -7,8 +7,8 @@
     "createdAt": "2026-11-13T09:18:43Z",
     "closedAt": null,
     "mergedAt": null,
-    "additions": 779,
-    "deletions": 80,
+    "additions": 888,
+    "deletions": 82,
     "changedFiles": 6,
     "isDraft": false,
     "labels": {
@@ -21,7 +21,7 @@
     "repository": {
       "nameWithOwner": "meshery/meshery",
       "isPrivate": false,
-      "stargazerCount": 12180,
+      "stargazerCount": 12190,
       "url": "https://github.com/meshery/meshery",
       "owner": {
         "login": "meshery",
@@ -54,7 +54,7 @@
     "repository": {
       "nameWithOwner": "usekaneo/kaneo",
       "isPrivate": false,
-      "stargazerCount": 9797,
+      "stargazerCount": 9802,
       "url": "https://github.com/usekaneo/kaneo",
       "owner": {
         "login": "usekaneo",
@@ -84,7 +84,7 @@
     "repository": {
       "nameWithOwner": "usekaneo/kaneo",
       "isPrivate": false,
-      "stargazerCount": 9797,
+      "stargazerCount": 9802,
       "url": "https://github.com/usekaneo/kaneo",
       "owner": {
         "login": "usekaneo",
