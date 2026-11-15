@@ -3,6 +3,20 @@
     "login": "man-singh-dev",
     "repos": [
       {
+        "name": "open-source-contributions",
+        "description": "My open-source pull requests: root cause, fix, tests, and what I learned",
+        "url": "https://github.com/man-singh-dev/open-source-contributions",
+        "homepage": "",
+        "language": null,
+        "languageColor": null,
+        "languages": [],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-11-14T10:53:51Z",
+        "createdAt": "2026-10-29T12:16:52Z"
+      },
+      {
         "name": "diffCraft",
         "description": "A collaborative code review and debugging platform with real-time discussions, threaded feedback, and intelligent code analysis",
         "url": "https://github.com/man-singh-dev/diffCraft",
@@ -12,11 +26,11 @@
         "languages": [
           {
             "name": "TypeScript",
-            "size": 1303336
+            "size": 1342662
           },
           {
             "name": "JavaScript",
-            "size": 470
+            "size": 589
           },
           {
             "name": "CSS",
@@ -499,7 +513,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9802,
+        "repoStars": 9804,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -520,7 +534,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9802,
+        "repoStars": 9804,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -542,7 +556,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12190,
+        "repoStars": 12200,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -582,27 +596,15 @@
       }
     ],
     "contributions": {
-      "total": 181,
-      "commits": 125,
+      "total": 182,
+      "commits": 130,
       "pullRequests": 11,
       "reviews": 0,
       "issues": 3,
-      "privateContributions": 19,
-      "start": "2025-11-14",
-      "end": "2026-11-14",
+      "privateContributions": 14,
+      "start": "2025-11-16",
+      "end": "2026-11-15",
       "weeks": [
-        [
-          [
-            "2025-11-14",
-            0,
-            5
-          ],
-          [
-            "2025-11-15",
-            0,
-            6
-          ]
-        ],
         [
           [
             "2025-11-16",
@@ -2523,8 +2525,15 @@
           ],
           [
             "2026-11-14",
-            3,
+            4,
             6
+          ]
+        ],
+        [
+          [
+            "2026-11-15",
+            0,
+            0
           ]
         ]
       ]
@@ -2533,18 +2542,18 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 168718,
+    "ranking": 167579,
     "solved": {
-      "all": 565,
+      "all": 567,
       "easy": 115,
-      "medium": 360,
+      "medium": 362,
       "hard": 90
     },
     "totals": {
-      "all": 4110,
-      "easy": 975,
-      "medium": 2146,
-      "hard": 989
+      "all": 4114,
+      "easy": 976,
+      "medium": 2148,
+      "hard": 990
     },
     "badges": [
       {
@@ -2785,5 +2794,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-14T10:23:57.293Z"
+  "generatedAt": "2026-11-15T10:51:29.056Z"
 }
