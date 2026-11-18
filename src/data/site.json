@@ -394,7 +394,7 @@
         "number": 505,
         "repo": "nensii21/devlink",
         "repoUrl": "https://github.com/nensii21/devlink",
-        "repoStars": 25,
+        "repoStars": 26,
         "owner": "nensii21",
         "avatar": "https://avatars.githubusercontent.com/u/246799975?u=8ba7620212ff6e2fc684f4263d21a056dda60c2e&v=4",
         "own": false,
@@ -513,7 +513,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9817,
+        "repoStars": 9827,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -534,7 +534,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9817,
+        "repoStars": 9827,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -556,7 +556,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12225,
+        "repoStars": 12235,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -602,15 +602,10 @@
       "reviews": 0,
       "issues": 3,
       "privateContributions": 14,
-      "start": "2025-11-17",
-      "end": "2026-11-17",
+      "start": "2025-11-18",
+      "end": "2026-11-18",
       "weeks": [
         [
-          [
-            "2025-11-17",
-            0,
-            1
-          ],
           [
             "2025-11-18",
             0,
@@ -2539,6 +2534,11 @@
             "2026-11-17",
             0,
             2
+          ],
+          [
+            "2026-11-18",
+            0,
+            3
           ]
         ]
       ]
@@ -2547,7 +2547,7 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 167748,
+    "ranking": 167839,
     "solved": {
       "all": 567,
       "easy": 115,
@@ -2555,10 +2555,10 @@
       "hard": 90
     },
     "totals": {
-      "all": 4114,
+      "all": 4115,
       "easy": 976,
       "medium": 2148,
-      "hard": 990
+      "hard": 991
     },
     "badges": [
       {
@@ -2799,5 +2799,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-17T11:50:25.833Z"
+  "generatedAt": "2026-11-18T11:40:22.949Z"
 }
