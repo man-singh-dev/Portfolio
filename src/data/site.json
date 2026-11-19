@@ -513,7 +513,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9827,
+        "repoStars": 9844,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -534,7 +534,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9827,
+        "repoStars": 9844,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -556,7 +556,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12235,
+        "repoStars": 12246,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -565,8 +565,8 @@
         "createdAt": "2026-11-13T09:18:43Z",
         "mergedAt": null,
         "closedAt": null,
-        "additions": 888,
-        "deletions": 82,
+        "additions": 890,
+        "deletions": 88,
         "labels": [
           "component/ui"
         ]
@@ -602,15 +602,10 @@
       "reviews": 0,
       "issues": 3,
       "privateContributions": 14,
-      "start": "2025-11-18",
-      "end": "2026-11-18",
+      "start": "2025-11-19",
+      "end": "2026-11-19",
       "weeks": [
         [
-          [
-            "2025-11-18",
-            0,
-            2
-          ],
           [
             "2025-11-19",
             0,
@@ -2539,6 +2534,11 @@
             "2026-11-18",
             0,
             3
+          ],
+          [
+            "2026-11-19",
+            0,
+            4
           ]
         ]
       ]
@@ -2547,11 +2547,11 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 167839,
+    "ranking": 167256,
     "solved": {
-      "all": 567,
+      "all": 568,
       "easy": 115,
-      "medium": 362,
+      "medium": 363,
       "hard": 90
     },
     "totals": {
@@ -2799,5 +2799,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-18T11:40:22.949Z"
+  "generatedAt": "2026-11-19T11:38:11.135Z"
 }
