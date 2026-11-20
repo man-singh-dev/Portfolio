@@ -1,5 +1,73 @@
 [
   {
+    "name": "Portfolio",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/Portfolio",
+    "homepageUrl": "https://portfolio-mauve-phi-axiiscdvhf.vercel.app",
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-11-19T15:41:28Z",
+    "createdAt": "2026-11-11T17:00:39Z",
+    "primaryLanguage": {
+      "name": "TypeScript",
+      "color": "#3178c6"
+    },
+    "languages": {
+      "edges": [
+        {
+          "size": 193998,
+          "node": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          }
+        },
+        {
+          "size": 13358,
+          "node": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          }
+        },
+        {
+          "size": 8946,
+          "node": {
+            "name": "CSS",
+            "color": "#663399"
+          }
+        },
+        {
+          "size": 973,
+          "node": {
+            "name": "Python",
+            "color": "#3572A5"
+          }
+        }
+      ]
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
+    "name": "DSA",
+    "description": null,
+    "url": "https://github.com/man-singh-dev/DSA",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-11-19T15:22:00Z",
+    "createdAt": "2026-11-19T15:21:58Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
     "name": "open-source-contributions",
     "description": "My open-source pull requests: root cause, fix, tests, and what I learned",
     "url": "https://github.com/man-singh-dev/open-source-contributions",
@@ -130,56 +198,6 @@
           "node": {
             "name": "CSS",
             "color": "#663399"
-          }
-        }
-      ]
-    },
-    "repositoryTopics": {
-      "nodes": []
-    }
-  },
-  {
-    "name": "Portfolio",
-    "description": null,
-    "url": "https://github.com/man-singh-dev/Portfolio",
-    "homepageUrl": null,
-    "isFork": false,
-    "stargazerCount": 0,
-    "forkCount": 0,
-    "updatedAt": "2026-11-12T12:05:21Z",
-    "createdAt": "2026-11-11T17:00:39Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#3178c6"
-    },
-    "languages": {
-      "edges": [
-        {
-          "size": 193998,
-          "node": {
-            "name": "TypeScript",
-            "color": "#3178c6"
-          }
-        },
-        {
-          "size": 13358,
-          "node": {
-            "name": "JavaScript",
-            "color": "#f1e05a"
-          }
-        },
-        {
-          "size": 8946,
-          "node": {
-            "name": "CSS",
-            "color": "#663399"
-          }
-        },
-        {
-          "size": 973,
-          "node": {
-            "name": "Python",
-            "color": "#3572A5"
           }
         }
       ]
