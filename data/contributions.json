@@ -11,11 +11,6 @@
       {
         "contributionDays": [
           {
-            "date": "2025-11-20",
-            "contributionCount": 0,
-            "weekday": 4
-          },
-          {
             "date": "2025-11-21",
             "contributionCount": 0,
             "weekday": 5
@@ -2047,6 +2042,11 @@
             "date": "2026-11-20",
             "contributionCount": 2,
             "weekday": 5
+          },
+          {
+            "date": "2026-11-21",
+            "contributionCount": 0,
+            "weekday": 6
           }
         ]
       }
