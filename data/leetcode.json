@@ -3,13 +3,13 @@
     "matchedUser": {
       "username": "Mansingh876",
       "profile": {
-        "ranking": 163542
+        "ranking": 162376
       },
       "submitStatsGlobal": {
         "acSubmissionNum": [
           {
             "difficulty": "All",
-            "count": 574
+            "count": 576
           },
           {
             "difficulty": "Easy",
@@ -17,11 +17,11 @@
           },
           {
             "difficulty": "Medium",
-            "count": 369
+            "count": 370
           },
           {
             "difficulty": "Hard",
-            "count": 90
+            "count": 91
           }
         ]
       },
@@ -55,19 +55,19 @@
     "allQuestionsCount": [
       {
         "difficulty": "All",
-        "count": 4115
+        "count": 4123
       },
       {
         "difficulty": "Easy",
-        "count": 976
+        "count": 978
       },
       {
         "difficulty": "Medium",
-        "count": 2148
+        "count": 2152
       },
       {
         "difficulty": "Hard",
-        "count": 991
+        "count": 993
       }
     ],
     "userContestRanking": {
