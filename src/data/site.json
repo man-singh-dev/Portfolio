@@ -527,7 +527,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9868,
+        "repoStars": 9883,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -548,7 +548,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9868,
+        "repoStars": 9883,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -570,7 +570,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12295,
+        "repoStars": 12310,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -616,15 +616,10 @@
       "reviews": 0,
       "issues": 3,
       "privateContributions": 14,
-      "start": "2025-11-23",
-      "end": "2026-11-23",
+      "start": "2025-11-24",
+      "end": "2026-11-24",
       "weeks": [
         [
-          [
-            "2025-11-23",
-            0,
-            0
-          ],
           [
             "2025-11-24",
             0,
@@ -2553,6 +2548,11 @@
             "2026-11-23",
             0,
             1
+          ],
+          [
+            "2026-11-24",
+            0,
+            2
           ]
         ]
       ]
@@ -2561,11 +2561,11 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 162463,
+    "ranking": 161330,
     "solved": {
-      "all": 576,
-      "easy": 115,
-      "medium": 370,
+      "all": 578,
+      "easy": 116,
+      "medium": 371,
       "hard": 91
     },
     "totals": {
@@ -2813,5 +2813,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-23T12:35:40.024Z"
+  "generatedAt": "2026-11-24T13:41:09.763Z"
 }
