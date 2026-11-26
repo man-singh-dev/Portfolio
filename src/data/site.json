@@ -527,7 +527,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9895,
+        "repoStars": 9907,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -548,7 +548,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9895,
+        "repoStars": 9907,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -570,7 +570,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12322,
+        "repoStars": 12337,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -616,15 +616,10 @@
       "reviews": 0,
       "issues": 3,
       "privateContributions": 14,
-      "start": "2025-11-25",
-      "end": "2026-11-25",
+      "start": "2025-11-26",
+      "end": "2026-11-26",
       "weeks": [
         [
-          [
-            "2025-11-25",
-            0,
-            2
-          ],
           [
             "2025-11-26",
             0,
@@ -2553,6 +2548,11 @@
             "2026-11-25",
             0,
             3
+          ],
+          [
+            "2026-11-26",
+            0,
+            4
           ]
         ]
       ]
@@ -2561,7 +2561,7 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 160774,
+    "ranking": 159637,
     "solved": {
       "all": 581,
       "easy": 116,
@@ -2595,8 +2595,8 @@
     "contest": {
       "rating": 1902,
       "attended": 18,
-      "globalRanking": 40505,
-      "topPercentage": 4.66,
+      "globalRanking": 40628,
+      "topPercentage": 4.67,
       "badge": "Knight"
     },
     "history": [
@@ -2813,5 +2813,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-25T12:51:58.852Z"
+  "generatedAt": "2026-11-26T12:30:09.921Z"
 }
