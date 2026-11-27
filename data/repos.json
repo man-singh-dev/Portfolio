@@ -1,5 +1,23 @@
 [
   {
+    "name": "Vigil",
+    "description": "A high-throughput camera heartbeat and event ingestion service, written in Go.",
+    "url": "https://github.com/man-singh-dev/Vigil",
+    "homepageUrl": null,
+    "isFork": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "updatedAt": "2026-11-26T13:24:59Z",
+    "createdAt": "2026-11-26T13:24:57Z",
+    "primaryLanguage": null,
+    "languages": {
+      "edges": []
+    },
+    "repositoryTopics": {
+      "nodes": []
+    }
+  },
+  {
     "name": "Portfolio",
     "description": null,
     "url": "https://github.com/man-singh-dev/Portfolio",

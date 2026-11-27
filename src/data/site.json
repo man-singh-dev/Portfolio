@@ -3,6 +3,20 @@
     "login": "man-singh-dev",
     "repos": [
       {
+        "name": "Vigil",
+        "description": "A high-throughput camera heartbeat and event ingestion service, written in Go.",
+        "url": "https://github.com/man-singh-dev/Vigil",
+        "homepage": "",
+        "language": null,
+        "languageColor": null,
+        "languages": [],
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "updatedAt": "2026-11-26T13:24:59Z",
+        "createdAt": "2026-11-26T13:24:57Z"
+      },
+      {
         "name": "Portfolio",
         "description": "",
         "url": "https://github.com/man-singh-dev/Portfolio",
@@ -527,7 +541,7 @@
         "number": 2157,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9907,
+        "repoStars": 9915,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -548,7 +562,7 @@
         "number": 2165,
         "repo": "usekaneo/kaneo",
         "repoUrl": "https://github.com/usekaneo/kaneo",
-        "repoStars": 9907,
+        "repoStars": 9915,
         "owner": "usekaneo",
         "avatar": "https://avatars.githubusercontent.com/u/192649426?v=4",
         "own": false,
@@ -570,7 +584,7 @@
         "number": 23431,
         "repo": "meshery/meshery",
         "repoUrl": "https://github.com/meshery/meshery",
-        "repoStars": 12337,
+        "repoStars": 12344,
         "owner": "meshery",
         "avatar": "https://avatars.githubusercontent.com/u/52376019?v=4",
         "own": false,
@@ -610,21 +624,16 @@
       }
     ],
     "contributions": {
-      "total": 195,
-      "commits": 142,
+      "total": 198,
+      "commits": 144,
       "pullRequests": 11,
       "reviews": 0,
       "issues": 3,
       "privateContributions": 14,
-      "start": "2025-11-26",
-      "end": "2026-11-26",
+      "start": "2025-11-27",
+      "end": "2026-11-27",
       "weeks": [
         [
-          [
-            "2025-11-26",
-            0,
-            3
-          ],
           [
             "2025-11-27",
             0,
@@ -2551,8 +2560,13 @@
           ],
           [
             "2026-11-26",
-            0,
+            3,
             4
+          ],
+          [
+            "2026-11-27",
+            0,
+            5
           ]
         ]
       ]
@@ -2561,11 +2575,11 @@
   "leetcode": {
     "username": "Mansingh876",
     "url": "https://leetcode.com/u/Mansingh876/",
-    "ranking": 159637,
+    "ranking": 158539,
     "solved": {
-      "all": 581,
-      "easy": 116,
-      "medium": 373,
+      "all": 583,
+      "easy": 117,
+      "medium": 374,
       "hard": 92
     },
     "totals": {
@@ -2813,5 +2827,5 @@
       }
     ]
   },
-  "generatedAt": "2026-11-26T12:30:09.921Z"
+  "generatedAt": "2026-11-27T12:16:55.176Z"
 }
